@@ -1,3 +1,7 @@
-theme: jekyll-theme-minima
+
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-minima
+
+remote_theme: alembic
 title: CJQSHU's homepage
 description: Bookmark this to keep an eye on my project updates!

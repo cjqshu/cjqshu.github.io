@@ -1,5 +1,5 @@
 
-# Awesome Resources <!-- omit in toc -->
+<!-- # <center> Awesome Resources </center> omit in toc -->
 
 ## Table of Contents <!-- omit in toc -->
 

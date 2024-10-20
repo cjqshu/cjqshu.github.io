@@ -1,10 +1,11 @@
-#  GitHub Pages 站点上支持的 jekyll 主题
+# GitHub Pages 站点上支持的 jekyll 主题
 theme: jekyll-theme-cayman
 # theme: jekyll-theme-minima
 
 # 使用 GitHub 上托管的任何其他 Jekyll 主题
 # remote_theme: daviddarnes/alembic@main
-# title: CJQSHU's homepage
 
+# title: CJQSHU's homepage
+# title: DownToOne's Homepage
 title: Awesome Resources
 # description: Bookmark this to keep an eye on my project updates!

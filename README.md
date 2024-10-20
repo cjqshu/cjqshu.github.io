@@ -19,6 +19,6 @@
 - [简单粗暴 TensorFlow 2](https://tf.wiki/zh_hans/)
 
 
-**GitHub repository link** <!-- URL -->
-
+## GitHub repository link <!-- omit in toc -->
+<!-- URL -->
 https://github.com/cjqshu/cjqshu.github.io

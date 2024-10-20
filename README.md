@@ -5,6 +5,7 @@
 
 - [1. PyTorch](#1-pytorch)
 - [2. TensorFlow](#2-tensorflow)
+- [3. My Links](#3-my-links)
 
 ## 1. PyTorch
 
@@ -19,6 +20,8 @@
 - [简单粗暴 TensorFlow 2](https://tf.wiki/zh_hans/)
 
 
-## GitHub repository link <!-- omit in toc -->
-<!-- URL -->
-https://github.com/cjqshu/cjqshu.github.io
+## 3. My Links 
+<!-- GitHub repository link (URL) -->
+- [cjqshu.github.io](https://github.com/cjqshu/cjqshu.github.io)
+- [DownToOne](https://xydh.fun/cjq125)
+

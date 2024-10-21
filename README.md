@@ -15,6 +15,8 @@
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/)
 - [深度学习调优指南中文版](https://cjqshu.github.io/books/深度学习调参指南中文版.pdf)
 - [d2l](https://zh-v2.d2l.ai/)
+- [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial)
+
 
 ## 2. TensorFlow
 

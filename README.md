@@ -15,7 +15,7 @@
 - [官网](https://pytorch.org/)
 - [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/)
-- [Pytorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf)
+- [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf)
 
 
 ## 2. TensorFlow

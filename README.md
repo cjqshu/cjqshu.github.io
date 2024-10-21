@@ -7,7 +7,7 @@
 - [2. TensorFlow](#2-tensorflow)
 - [3. Books](#3-books)
 - [4. Open Source Organizations](#4-open-source-organizations)
-- [4. My Links](#4-my-links)
+- [5. My Links](#5-my-links)
 
 
 ## 1. PyTorch
@@ -28,7 +28,7 @@
 
 - [AAAMLP-CN](https://ytzfhqs.github.io/AAAMLP-CN/) | Approaching (Almost) Any Machine Learning Problem 中译版
 - [d2l](https://zh-v2.d2l.ai/) | 动手学深度学习 (李沐)
-- [leedl-tutorial](https:/cjqshu.github.io/books/LeeDL_Tutorial.pdf) | 深度学习教程 (李宏毅)
+- [leedl-tutorial](https:/cjqshu.github.io/books/LeeDL_Tutorial_v.1.2.2.pdf) | 深度学习教程 (李宏毅)
 - [深度学习调优指南中文版](https://cjqshu.github.io/books/深度学习调参指南中文版.pdf)
 
 
@@ -39,7 +39,7 @@
 - [van der Schaar Lab](https://github.com/vanderschaarlab/mlforhealthlabpub)
 
 
-## 4. My Links
+## 5. My Links
 <!-- GitHub repository link (URL) -->
 - [https://github.com/cjq/cjqshu.github.io](https://github.com/cjqshu/cjqshu.github.io)
 - [DownToOne](https://xydh.fun/cjq125)

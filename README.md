@@ -13,7 +13,7 @@
 ## 1. TensorFlow
 
 - [官网](https://www.tensorflow.org/?hl=zh-cn)
-- [简单粗暴 TensorFlow 2](https://tf.wiki/zh_hans/)
+- [简明的TensorFlow 2](https://tf.wiki/zh_hans/)
 
 
 ## 2. PyTorch

@@ -3,25 +3,25 @@
 
 ## Table of Contents <!-- omit in toc -->
 
-- [1. PyTorch](#1-pytorch)
-- [2. TensorFlow](#2-tensorflow)
+- [1. TensorFlow](#1-tensorflow)
+- [2. PyTorch](#2-pytorch)
 - [3. Books](#3-books)
 - [4. Open Source Organizations](#4-open-source-organizations)
 - [5. My Links](#5-my-links)
 
 
-## 1. PyTorch
+## 1. TensorFlow
+
+- [官网](https://www.tensorflow.org/?hl=zh-cn)
+- [简单粗暴 TensorFlow 2](https://tf.wiki/zh_hans/)
+
+
+## 2. PyTorch
 
 - [官网](https://pytorch.org/)
 - [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/)
 - [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf)
-
-
-## 2. TensorFlow
-
-- [官网](https://www.tensorflow.org/?hl=zh-cn)
-- [简单粗暴 TensorFlow 2](https://tf.wiki/zh_hans/)
 
 
 ## 3. Books

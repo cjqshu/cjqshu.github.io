@@ -26,9 +26,9 @@
 
 ## 3. Books
 
-- [AAAMLP-CN](https://ytzfhqs.github.io/AAAMLP-CN/) — Approaching (Almost) Any Machine Learning Problem 中译版
-- [d2l](https://zh-v2.d2l.ai/) — 动手学深度学习 (李沐)
-- [leedl-tutorial](https://cjqshu.github.io/books/LeeDL_Tutorial.pdf) — 深度学习教程 (李宏毅)
+- [AAAMLP-CN](https://ytzfhqs.github.io/AAAMLP-CN/) \| Approaching (Almost) Any Machine Learning Problem 中译版
+- [d2l](https://zh-v2.d2l.ai/) \| 动手学深度学习 (李沐)
+- [leedl-tutorial](https://cjqshu.github.io/books/LeeDL_Tutorial.pdf) \| 深度学习教程 (李宏毅)
 - [深度学习调优指南中文版](https://cjqshu.github.io/books/深度学习调参指南中文版.pdf)
 
 

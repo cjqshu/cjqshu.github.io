@@ -42,8 +42,8 @@
 
 |   scikit-learn   | [官网](https://scikit-learn.org/) |      [中文文档 1](https://scikit-learn.cn/)      | [中文文档 2](https://scikitlearn.com.cn/) |
 |:----------------:|:---------------------------------:|:------------------------------------------------:|:-----------------------------------------:|
-|     pycaret      |   [官网](https://pycaret.org/)    | [中文文档](http://www.aidoczh.com/docs/pycaret/) |                                           |
-| AI工具中文文档库 |  [官网](http://www.aidoczh.com/)  |                                                  |                                           |
+|     pycaret      |   [官网](https://pycaret.org/)    | [中文文档](http://www.aidoczh.com/docs/pycaret/) |                     —                     |
+| AI工具中文文档库 |  [官网](http://www.aidoczh.com/)  |                        —                         |                     —                     |
 
 
 ## 4. Deep Learning Frameworks

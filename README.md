@@ -80,8 +80,8 @@
 ## 6. My Links
 <!-- Other Links -->
 <!-- GitHub repository link (URL) -->
-- [https://github.com/cjqshu/cjqshu.github.io](https://github.com/cjqshu/cjqshu.github.io)
 - [DownToOne](https://xydh.fun/cjq125)
+- [https://github.com/cjqshu/cjqshu.github.io](https://github.com/cjqshu/cjqshu.github.io)
 
 
 <figure class="third">

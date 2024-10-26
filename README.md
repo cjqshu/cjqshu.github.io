@@ -83,10 +83,9 @@
 - [https://github.com/cjqshu/cjqshu.github.io](https://github.com/cjqshu/cjqshu.github.io)
 - [DownToOne](https://xydh.fun/cjq125)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjqshu&theme=default)
 
 <figure class="third">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjqshu&theme=default" width="350"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjqshu&theme=default&utcOffset=8" width="350"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjqshu&theme=default" width="700"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjqshu&theme=default" width="350"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjqshu&theme=default&utcOffset=8" width="350"/>
 </figure>
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->

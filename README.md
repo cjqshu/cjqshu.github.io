@@ -6,8 +6,6 @@
 - [1. Open Source Organizations](#1-open-source-organizations)
 - [2. Data Analysis Libraries](#2-data-analysis-libraries)
 - [3. Machine Learning Libraries](#3-machine-learning-libraries)
-	- [3.1. scikit-learn](#31-scikit-learn)
-	- [3.2. pycaret](#32-pycaret)
 - [4. Deep Learning Frameworks](#4-deep-learning-frameworks)
 	- [4.1. TensorFlow](#41-tensorflow)
 	- [4.2. PyTorch](#42-pytorch)
@@ -40,16 +38,10 @@
 
 ## 3. Machine Learning Libraries
 
-### 3.1. scikit-learn
-
-- [官网](https://scikit-learn.org/)
-- [中文文档 1](https://scikit-learn.cn/)
-- [中文文档 2](https://scikitlearn.com.cn/)
-
-### 3.2. pycaret
-
-- [官网](https://pycaret.org/)
-- [中文文档](http://www.aidoczh.com/docs/pycaret/)
+|   scikit-learn   | [官网](https://scikit-learn.org/) |      [中文文档 1](https://scikit-learn.cn/)      | [中文文档 2](https://scikitlearn.com.cn/) |
+|:----------------:|:---------------------------------:|:------------------------------------------------:|:-----------------------------------------:|
+|     pycaret      |   [官网](https://pycaret.org/)    | [中文文档](http://www.aidoczh.com/docs/pycaret/) |                                           |
+| AI工具中文文档库 |  [官网](http://www.aidoczh.com/)  |                                                  |                                           |
 
 
 ## 4. Deep Learning Frameworks

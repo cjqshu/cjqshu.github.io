@@ -56,7 +56,7 @@
 
 ### 4.2. PyTorch
 
-- [官网](https://pytorch.org/)
+- [官网](https://pytorch.org/)、[中文文档](https://pytorch-cn.readthedocs.io/)
 - [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/)
 - [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf)

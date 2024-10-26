@@ -85,10 +85,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjqshu&theme=default)
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjqshu&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjqshu&theme=default&utcOffset=8) |
-|--------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------------------------:|
-
-<figure class="two">
+<figure class="third">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjqshu&theme=default" width="350"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjqshu&theme=default&utcOffset=8" width="350"/>
 </figure>
 

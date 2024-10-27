@@ -89,3 +89,5 @@
 </figure>
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cjqshu/cjqshu.github.io&type=Date)](https://star-history.com/#cjqshu/cjqshu.github.io&Date)

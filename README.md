@@ -32,41 +32,45 @@
 <br> 表示换行, br(break)
 -->
 
-|   pandas   | [官网](https://pandas.pydata.org/) | [中文文档 1](https://pandas.github.net.cn/) |    [中文文档 2](https://www.pypandas.cn/)    |
-|:----------:|:----------------------------------:|:-------------------------------------------:|:--------------------------------------------:|
-|   numpy    |     [官网](https://numpy.org/)     |      [中文文档 1](https://numpy.net/)       |   [中文文档 2](https://www.numpy.org.cn/)    |
-| matplotlib |  [官网](https://matplotlib.org/)   |    [中文文档 1](https://matplotlib.net/)    | [中文文档 2](https://www.matplotlib.org.cn/) |
+<!-- tutorials -->
+<!-- https://shields.io/badges/git-hub-repo-stars -->
+
+|   pandas   |   ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)   | [官网](https://pandas.pydata.org/) | [中文文档 1](https://pandas.github.net.cn/) |    [中文文档 2](https://www.pypandas.cn/)    |
+|:----------:|:-------------------------------------------------------------------------------:|:----------------------------------:|:-------------------------------------------:|:--------------------------------------------:|
+|   numpy    |      ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)      |     [官网](https://numpy.org/)     |      [中文文档 1](https://numpy.net/)       |   [中文文档 2](https://www.numpy.org.cn/)    |
+| matplotlib | ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib) |  [官网](https://matplotlib.org/)   |    [中文文档 1](https://matplotlib.net/)    | [中文文档 2](https://www.matplotlib.org.cn/) |
 
 
 ## 3. Machine Learning Libraries
 
-|   scikit-learn   | [官网](https://scikit-learn.org/) |      [中文文档 1](https://scikit-learn.cn/)      | [中文文档 2](https://scikitlearn.com.cn/) |
-|:----------------:|:---------------------------------:|:------------------------------------------------:|:-----------------------------------------:|
-|     pycaret      |   [官网](https://pycaret.org/)    | [中文文档](http://www.aidoczh.com/docs/pycaret/) |                     —                     |
-| AI工具中文文档库 |  [官网](http://www.aidoczh.com/)  |                        —                         |                     —                     |
+|   scikit-learn   | ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn) | [官网](https://scikit-learn.org/) |      [中文文档 1](https://scikit-learn.cn/)      | [中文文档 2](https://scikitlearn.com.cn/) |
+|:----------------:|:-----------------------------------------------------------------------------------:|:---------------------------------:|:------------------------------------------------:|:-----------------------------------------:|
+|     pycaret      |      ![GitHub Repo stars](https://img.shields.io/github/stars/pycaret/pycaret)      |   [官网](https://pycaret.org/)    | [中文文档](http://www.aidoczh.com/docs/pycaret/) |                     —                     |
+| AI工具中文文档库 |                                          —                                          |  [官网](http://www.aidoczh.com/)  |                        —                         |                     —                     |
 
 
 ## 4. Deep Learning Frameworks
 
 ### 4.1. TensorFlow
 
-- [官网](https://www.tensorflow.org/?hl=zh-cn)
+- [官网](https://www.tensorflow.org/?hl=zh-cn) ![GitHub Repo stars](https://img.shields.io/github/stars/tensorflow/tensorflow)
 - [简明的TensorFlow 2](https://tf.wiki/zh_hans/)
 
 
 ### 4.2. PyTorch
 
-- [官网](https://pytorch.org/)、[中文文档](https://pytorch-cn.readthedocs.io/)
-- [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/)
-- [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/)
+- [官网](https://pytorch.org/) ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch)
+- [中文文档](https://pytorch-cn.readthedocs.io/)
+- [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
+- [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) ![GitHub Repo stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd)
 - [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf)
 
 
 ## 5. Books
 
 ### 5.1. ML and DL
-- [AAAMLP-CN](https://ytzfhqs.github.io/AAAMLP-CN/) \| Approaching (Almost) Any Machine Learning Problem 中译版
-- [d2l](https://zh-v2.d2l.ai/) \| 动手学深度学习 (李沐)
+- [AAAMLP-CN](https://ytzfhqs.github.io/AAAMLP-CN/) \| Approaching (Almost) Any Machine Learning Problem 中译版 ![GitHub Repo stars](https://img.shields.io/github/stars/ytzfhqs/AAAMLP-CN)
+- [d2l](https://zh-v2.d2l.ai/) \| 动手学深度学习 (李沐) ![GitHub Repo stars](https://img.shields.io/github/stars/d2l-ai/d2l-zh)
 - [leedl-tutorial](https://cjqshu.github.io/books/LeeDL_Tutorial.pdf) \| 深度学习教程 (李宏毅)
 - [nndl](https://nndl.github.io/nndl-book.pdf) \| 神经网络与深度学习 (邱锡鹏)
 - [深度学习调优指南中文版](https://cjqshu.github.io/books/深度学习调参指南中文版.pdf)
@@ -91,5 +95,9 @@
 	<img src="https://api.star-history.com/svg?repos=cjqshu/cjqshu.github.io&type=Date)](https://star-history.com/#cjqshu/cjqshu.github.io&Date" height="300" width="700" />
 </figure>
 
+<!-- tutorials -->
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
+<!-- https://star-history.com/ -->
+
+
 

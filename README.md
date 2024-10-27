@@ -85,9 +85,11 @@
 
 
 <figure class="third">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjqshu&theme=default" width="700"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjqshu&theme=default" width="350"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjqshu&theme=default&utcOffset=8" width="350"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjqshu&theme=default" height="200" width="700"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjqshu&theme=default" height="200" width="350"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjqshu&theme=default&utcOffset=8" height="200" width="350"/>
+	<img src="https://api.star-history.com/svg?repos=cjqshu/cjqshu.github.io&type=Date)](https://star-history.com/#cjqshu/cjqshu.github.io&Date" height="300" width="700" />
 </figure>
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
 
-[![Star History Chart](https://api.star-history.com/svg?repos=cjqshu/cjqshu.github.io&type=Date)](https://star-history.com/#cjqshu/cjqshu.github.io&Date)

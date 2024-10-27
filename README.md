@@ -35,18 +35,18 @@
 <!-- tutorials -->
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 
-|   pandas   |   ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)   | [官网](https://pandas.pydata.org/) | [中文文档 1](https://pandas.github.net.cn/) |    [中文文档 2](https://www.pypandas.cn/)    |
-|:----------:|:-------------------------------------------------------------------------------:|:----------------------------------:|:-------------------------------------------:|:--------------------------------------------:|
-|   numpy    |      ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)      |     [官网](https://numpy.org/)     |      [中文文档 1](https://numpy.net/)       |   [中文文档 2](https://www.numpy.org.cn/)    |
-| matplotlib | ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib) |  [官网](https://matplotlib.org/)   |    [中文文档 1](https://matplotlib.net/)    | [中文文档 2](https://www.matplotlib.org.cn/) |
+|   pandas   | [官网](https://pandas.pydata.org/) | [中文文档 1](https://pandas.github.net.cn/) |    [中文文档 2](https://www.pypandas.cn/)    |   ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)   |
+|:----------:|:----------------------------------:|:-------------------------------------------:|:--------------------------------------------:|:-------------------------------------------------------------------------------:|
+|   numpy    |     [官网](https://numpy.org/)     |      [中文文档 1](https://numpy.net/)       |   [中文文档 2](https://www.numpy.org.cn/)    |      ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)      |
+| matplotlib |  [官网](https://matplotlib.org/)   |    [中文文档 1](https://matplotlib.net/)    | [中文文档 2](https://www.matplotlib.org.cn/) | ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib) |
 
 
 ## 3. Machine Learning Libraries
 
-|   scikit-learn   | ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn) | [官网](https://scikit-learn.org/) |      [中文文档 1](https://scikit-learn.cn/)      | [中文文档 2](https://scikitlearn.com.cn/) |
-|:----------------:|:-----------------------------------------------------------------------------------:|:---------------------------------:|:------------------------------------------------:|:-----------------------------------------:|
-|     pycaret      |      ![GitHub Repo stars](https://img.shields.io/github/stars/pycaret/pycaret)      |   [官网](https://pycaret.org/)    | [中文文档](http://www.aidoczh.com/docs/pycaret/) |                     —                     |
-| AI工具中文文档库 |                                          —                                          |  [官网](http://www.aidoczh.com/)  |                        —                         |                     —                     |
+|   scikit-learn   | [官网](https://scikit-learn.org/) |      [中文文档 1](https://scikit-learn.cn/)      | [中文文档 2](https://scikitlearn.com.cn/) | ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn) |
+|:----------------:|:---------------------------------:|:------------------------------------------------:|:-----------------------------------------:|:-----------------------------------------------------------------------------------:|
+|     pycaret      |   [官网](https://pycaret.org/)    | [中文文档](http://www.aidoczh.com/docs/pycaret/) |                     —                     |      ![GitHub Repo stars](https://img.shields.io/github/stars/pycaret/pycaret)      |
+| AI工具中文文档库 |                 —                 |         [官网](http://www.aidoczh.com/)          |                     —                     |                                          —                                          |
 
 
 ## 4. Deep Learning Frameworks

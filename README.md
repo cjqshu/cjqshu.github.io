@@ -3,7 +3,9 @@
 
 ## Table of Contents <!-- omit in toc -->
 
-- [1. Open Source Organizations](#1-open-source-organizations)
+- [1. Open Source](#1-open-source)
+	- [1.1. Organizations](#11-organizations)
+	- [1.2. Projects](#12-projects)
 - [2. Data Analysis](#2-data-analysis)
 - [3. Machine Learning Libraries](#3-machine-learning-libraries)
 - [4. Deep Learning Frameworks](#4-deep-learning-frameworks)
@@ -15,11 +17,17 @@
 - [6. My Links](#6-my-links)
 
 
-## 1. Open Source Organizations
+## 1. Open Source
+
+### 1.1. Organizations
 
 - [Datawhale](https://github.com/datawhalechina)
 - [Huang Haiguang](https://github.com/fengdu78)
 - [van der Schaar Lab](https://github.com/vanderschaarlab/mlforhealthlabpub)
+
+### 1.2. Projects
+
+- [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/)
 
 
 ## 2. Data Analysis

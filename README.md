@@ -16,6 +16,7 @@
 	- [5.2. Thinking Method](#52-thinking-method)
 - [6. My Links](#6-my-links)
 
+<!-- ![GitHub Repo stars](https://img.shields.io/github/stars/username_github/repository_github) -->
 
 ## 1. Open Source
 
@@ -27,7 +28,7 @@
 
 ### 1.2. Projects
 
-- [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/)
+- [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 
 
 ## 2. Data Analysis

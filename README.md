@@ -4,7 +4,7 @@
 ## Table of Contents <!-- omit in toc -->
 
 - [1. Open Source Organizations](#1-open-source-organizations)
-- [2. Data Analysis Libraries](#2-data-analysis-libraries)
+- [2. Data Analysis](#2-data-analysis)
 - [3. Machine Learning Libraries](#3-machine-learning-libraries)
 - [4. Deep Learning Frameworks](#4-deep-learning-frameworks)
 	- [4.1. TensorFlow](#41-tensorflow)
@@ -22,7 +22,7 @@
 - [van der Schaar Lab](https://github.com/vanderschaarlab/mlforhealthlabpub)
 
 
-## 2. Data Analysis Libraries
+## 2. Data Analysis
 
 <!-- table template
 |     |     |     |
@@ -35,8 +35,9 @@
 <!-- tutorials -->
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 
-|   pandas   | [官网](https://pandas.pydata.org/) | [中文文档 1](https://pandas.github.net.cn/) |    [中文文档 2](https://www.pypandas.cn/)    |   ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)   |
+|   python   |  [官网](https://www.python.org/)   |    [中文官网](https://python.p2hp.com/)     |  [中文文档](https://docs.python.org/zh-cn/)  |    ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)     |
 |:----------:|:----------------------------------:|:-------------------------------------------:|:--------------------------------------------:|:-------------------------------------------------------------------------------:|
+|   pandas   | [官网](https://pandas.pydata.org/) | [中文文档 1](https://pandas.github.net.cn/) |    [中文文档 2](https://www.pypandas.cn/)    |   ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)   |
 |   numpy    |     [官网](https://numpy.org/)     |      [中文文档 1](https://numpy.net/)       |   [中文文档 2](https://www.numpy.org.cn/)    |      ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)      |
 | matplotlib |  [官网](https://matplotlib.org/)   |    [中文文档 1](https://matplotlib.net/)    | [中文文档 2](https://www.matplotlib.org.cn/) | ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib) |
 

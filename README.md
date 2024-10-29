@@ -22,6 +22,7 @@
 
 ### 1.1. Organizations
 
+-  [Awesome-AISourceHub](https://www.aisourcehub.info/) \| 全网优质信息源 ![GitHub Repo stars](https://img.shields.io/github/stars/AmbroseX/Awesome-AISourceHub)
 - [Datawhale](https://github.com/datawhalechina)
 - [Huang Haiguang](https://github.com/fengdu78)
 - [van der Schaar Lab](https://github.com/vanderschaarlab/mlforhealthlabpub)

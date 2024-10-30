@@ -81,9 +81,9 @@
 ### 5.1. ML and DL
 - [AAAMLP-CN](https://ytzfhqs.github.io/AAAMLP-CN/) \| Approaching (Almost) Any Machine Learning Problem 中译版 ![GitHub Repo stars](https://img.shields.io/github/stars/ytzfhqs/AAAMLP-CN)
 - [d2l](https://zh-v2.d2l.ai/) \| 动手学深度学习 (李沐) ![GitHub Repo stars](https://img.shields.io/github/stars/d2l-ai/d2l-zh)
-- [leedl-tutorial](https://cjqshu.github.io/books/LeeDL_Tutorial.pdf) \| 深度学习教程 (李宏毅)
-- [nndl](https://nndl.github.io/nndl-book.pdf) \| 神经网络与深度学习 (邱锡鹏)
-- [深度学习调优指南中文版](https://cjqshu.github.io/books/深度学习调参指南中文版.pdf)
+- [leedl-tutorial](https://cjqshu.github.io/books/LeeDL_Tutorial.pdf) \| 深度学习教程 (李宏毅) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/leedl-tutorial)
+- [nndl](https://nndl.github.io/nndl-book.pdf) \| 神经网络与深度学习 (邱锡鹏) ![GitHub Repo stars](https://img.shields.io/github/stars/nndl/nndl.github.io)
+- [深度学习调优指南中文版](https://cjqshu.github.io/books/深度学习调参指南中文版.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/schrodingercatss/tuning_playbook_zh_cn)
 
 ### 5.2. Thinking Method
 

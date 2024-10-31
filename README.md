@@ -45,10 +45,10 @@
 <!-- tutorials -->
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 
-- [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/)     \|  [中文文档](https://docs.python.org/zh-cn/) \| ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
-- [pandas](https://pandas.pydata.org/) \| [中文文档 1](https://pandas.github.net.cn/) \| [中文文档 2](https://www.pypandas.cn/) \| ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
-- [numpy](https://numpy.org/) \| [中文文档 1](https://numpy.net/) \| [中文文档 2](https://www.numpy.org.cn/) \| ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)
-- [matplotlib](https://matplotlib.org/) \| [中文文档 1](https://matplotlib.net/) \| [中文文档 2](https://www.matplotlib.org.cn/) \| ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib)
+- [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/)     \|  [中文文档](https://docs.python.org/zh-cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
+- [pandas](https://pandas.pydata.org/) \| [中文文档 1](https://pandas.github.net.cn/) \| [中文文档 2](https://www.pypandas.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
+- [numpy](https://numpy.org/) \| [中文文档 1](https://numpy.net/) \| [中文文档 2](https://www.numpy.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)
+- [matplotlib](https://matplotlib.org/) \| [中文文档 1](https://matplotlib.net/) \| [中文文档 2](https://www.matplotlib.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib)
 
 
 ## 3. Machine Learning Libraries
@@ -68,7 +68,7 @@
 
 ### 4.2. PyTorch
 
-- [官网](https://pytorch.org/)、[中文文档](https://pytorch-cn.readthedocs.io/) ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch)
+- [官网](https://pytorch.org/) \| [中文文档](https://pytorch-cn.readthedocs.io/) ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch)
 - [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) ![GitHub Repo stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd)
 - [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf)

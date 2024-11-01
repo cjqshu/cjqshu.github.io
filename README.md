@@ -5,7 +5,7 @@
 
 - [1. Open Source](#1-open-source)
 	- [1.1. Organizations](#11-organizations)
-	- [1.2. Projects](#12-projects)
+	- [1.2. Projects and Documents](#12-projects-and-documents)
 - [2. Data Analysis](#2-data-analysis)
 - [3. Machine Learning Libraries](#3-machine-learning-libraries)
 - [4. Deep Learning Frameworks](#4-deep-learning-frameworks)
@@ -27,9 +27,10 @@
 - [Huang Haiguang](https://github.com/fengdu78)
 - [van der Schaar Lab](https://github.com/vanderschaarlab/mlforhealthlabpub)
 
-### 1.2. Projects
+### 1.2. Projects and Documents
 
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
+- [GitHub文档](https://docs.github.com/zh)
 
 
 ## 2. Data Analysis

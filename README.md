@@ -71,7 +71,7 @@
 ### 4.2. PyTorch
 
 - [官网](https://pytorch.org/) \| [中文文档](https://pytorch-cn.readthedocs.io/) \| [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch)
-- [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
+- [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) | [完整版](https://cjqshu.github.io/thorough-pytorch/) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) ![GitHub Repo stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd)
 
 

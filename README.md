@@ -31,6 +31,7 @@
 
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 - [GitHub文档](https://docs.github.com/zh) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [IT教程网](https://zglg.work/)
 
 
 
@@ -47,7 +48,7 @@
 <!-- tutorials -->
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 
-- [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/)     \|  [中文文档](https://docs.python.org/zh-cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
+- [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/) \| [中文文档](https://docs.python.org/zh-cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
 - [pandas](https://pandas.pydata.org/) \| [中文文档 1](https://pandas.github.net.cn/) \| [中文文档 2](https://www.pypandas.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
 - [numpy](https://numpy.org/) \| [中文文档 1](https://numpy.net/) \| [中文文档 2](https://www.numpy.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)
 - [matplotlib](https://matplotlib.org/) \| [中文文档 1](https://matplotlib.net/) \| [中文文档 2](https://www.matplotlib.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib)

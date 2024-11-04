@@ -47,16 +47,16 @@
 <!-- tutorials -->
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 
-- [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/) \| [中文文档](https://docs.python.org/zh-cn/) \| [Cheatsheet](https://www.pythoncheatsheet.org/) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
-- [pandas](https://pandas.pydata.org/) \| [中文文档 1](https://pandas.github.net.cn/) \| [中文文档 2](https://www.pypandas.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
-- [numpy](https://numpy.org/) \| [中文文档 1](https://numpy.net/) \| [中文文档 2](https://www.numpy.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)
-- [matplotlib](https://matplotlib.org/) \| [中文文档 1](https://matplotlib.net/) \| [中文文档 2](https://www.matplotlib.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib)
+- [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/) \| [中文文档](https://docs.python.org/zh-cn/) \| [cheatsheet-1](https://www.pythoncheatsheet.org/) \| [cheatsheet-2](https://github.com/gto76/python-cheatsheet) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
+- [pandas](https://pandas.pydata.org/) \| [中文文档-1](https://pandas.github.net.cn/) \| [中文文档-2](https://www.pypandas.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
+- [numpy](https://numpy.org/) \| [中文文档-1](https://numpy.net/) \| [中文文档-2](https://www.numpy.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)
+- [matplotlib](https://matplotlib.org/) \| [中文文档-1](https://matplotlib.net/) \| [中文文档-2](https://www.matplotlib.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib)
 
 
 ## 3. Machine Learning Libraries
 
-- [scikit-learn](https://scikit-learn.org/) \| [中文文档 1](https://scikit-learn.cn/) \| [中文文档 2](https://scikitlearn.com.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn)
-- [pycaret](https://scikit-learn.org/) \| [中文文档 1](https://scikit-learn.cn/) \| [中文文档 2](https://scikitlearn.com.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn)
+- [scikit-learn](https://scikit-learn.org/) \| [中文文档-1](https://scikit-learn.cn/) \| [中文文档-2](https://scikitlearn.com.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn)
+- [pycaret](https://scikit-learn.org/) \| [中文文档-1](https://scikit-learn.cn/) \| [中文文档-2](https://scikitlearn.com.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn)
 - [AI工具中文文档库](http://www.aidoczh.com/)
 
 

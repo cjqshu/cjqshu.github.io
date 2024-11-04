@@ -23,7 +23,7 @@
 ### 1.1. Organizations
 
 -  [Awesome-AISourceHub](https://www.aisourcehub.info/) \| 全网优质信息源 ![GitHub Repo stars](https://img.shields.io/github/stars/AmbroseX/Awesome-AISourceHub)
-- [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) \| [badge](https://github.com/pudding0503/github-badge-collection)
 - [Datawhale](https://github.com/datawhalechina)
 - [Huang Haiguang](https://github.com/fengdu78)
 - [van der Schaar Lab](https://github.com/vanderschaarlab/mlforhealthlabpub)
@@ -48,8 +48,8 @@
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 
 - [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/) \| [中文文档](https://docs.python.org/zh-cn/) \| [cheatsheet-1](https://www.pythoncheatsheet.org/) \| [cheatsheet-2](https://github.com/gto76/python-cheatsheet) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
-- [pandas](https://pandas.pydata.org/) \| [中文文档-1](https://pandas.github.net.cn/) \| [中文文档-2](https://www.pypandas.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
 - [numpy](https://numpy.org/) \| [中文文档-1](https://numpy.net/) \| [中文文档-2](https://www.numpy.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)
+- [pandas](https://pandas.pydata.org/) \| [中文文档-1](https://pandas.github.net.cn/) \| [中文文档-2](https://www.pypandas.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
 - [matplotlib](https://matplotlib.org/) \| [中文文档-1](https://matplotlib.net/) \| [中文文档-2](https://www.matplotlib.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib)
 
 

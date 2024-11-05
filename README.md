@@ -14,7 +14,7 @@
 - [5. Books](#5-books)
 	- [5.1. ML and DL](#51-ml-and-dl)
 	- [5.2. Thinking Method](#52-thinking-method)
-- [6. Learn English](#6-learn-english)
+- [6. English](#6-english)
 - [7. My Links](#7-my-links)
 
 <!-- ![GitHub Repo stars](https://img.shields.io/github/stars/username_github/repository_github) -->
@@ -91,7 +91,7 @@
 - [高效能人士的七个习惯](https://cjqshu.github.io/books/高效能人士的七个习惯_30周年纪念版.pdf)
 - [高效能人士的思维导图](https://cjqshu.github.io/books/高效能人士的思维导图_席音.pdf)
 
-## 6. Learn English
+## 6. English
 - [earthworm](https://github.com/cuixueshe/earthworm) \| `连词成句` `i+1` `以终为始` ![GitHub Repo stars](https://img.shields.io/github/stars/cuixueshe/earthworm)
 
 

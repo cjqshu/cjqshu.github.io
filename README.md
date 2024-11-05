@@ -14,7 +14,8 @@
 - [5. Books](#5-books)
 	- [5.1. ML and DL](#51-ml-and-dl)
 	- [5.2. Thinking Method](#52-thinking-method)
-- [6. My Links](#6-my-links)
+- [6. Learn English](#6-learn-english)
+- [7. My Links](#7-my-links)
 
 <!-- ![GitHub Repo stars](https://img.shields.io/github/stars/username_github/repository_github) -->
 
@@ -90,8 +91,11 @@
 - [高效能人士的七个习惯](https://cjqshu.github.io/books/高效能人士的七个习惯_30周年纪念版.pdf)
 - [高效能人士的思维导图](https://cjqshu.github.io/books/高效能人士的思维导图_席音.pdf)
 
+## 6. Learn English
+- [earthworm](https://github.com/cuixueshe/earthworm) \| constructing sentences with conjunctions
 
-## 6. My Links
+
+## 7. My Links
 <!-- Other Links -->
 <!-- GitHub repository link (URL) -->
 - [DownToOne](https://xydh.fun/cjq125)

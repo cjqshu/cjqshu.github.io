@@ -92,7 +92,7 @@
 - [高效能人士的思维导图](https://cjqshu.github.io/books/高效能人士的思维导图_席音.pdf)
 
 ## 6. Learn English
-- [earthworm](https://github.com/cuixueshe/earthworm) \| constructing sentences with conjunctions
+- [earthworm](https://github.com/cuixueshe/earthworm) \| `连词成句` `i+1` `以终为始` ![GitHub Repo stars](https://img.shields.io/github/stars/cuixueshe/earthworm)
 
 
 ## 7. My Links

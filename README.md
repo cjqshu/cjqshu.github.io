@@ -33,6 +33,7 @@
 
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 - [runoob](https://www.runoob.com/) \| running noob
+- [w3school](https://www.w3school.com.cn/) \| web开发者资源  <!--w3: World Wide Web 万维网 -->
 - [IT教程网](https://zglg.work/) \| [AI之家](https://ai-jupyter.com/)
 
 

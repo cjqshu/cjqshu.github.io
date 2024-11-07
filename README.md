@@ -35,6 +35,7 @@
 - [runoob](https://www.runoob.com/) \| running noob
 - [w3school](https://www.w3school.com.cn/) \| web开发者资源  <!--w3: World Wide Web 万维网 -->
 - [IT教程网](https://zglg.work/) \| [AI之家](https://ai-jupyter.com/)
+- [莫烦python](https://mofanpy.com/) \| [MorvanZhou](https://github.com/MorvanZhou)
 
 
 ## 2. Data Analysis
@@ -82,6 +83,7 @@
 
 ### 5.1. ML and DL
 - [AAAMLP-CN](https://ytzfhqs.github.io/AAAMLP-CN/) \| Approaching (Almost) Any Machine Learning Problem 中译版 ![GitHub Repo stars](https://img.shields.io/github/stars/ytzfhqs/AAAMLP-CN)
+- [ML-notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) \| [DL-notes](https://github.com/fengdu78/deeplearning_ai_books) (吴恩达 Andrew Ng) ![GitHub Repo stars](https://img.shields.io/github/stars/fengdu78/Coursera-ML-AndrewNg-Notes)
 - [d2l](https://zh-v2.d2l.ai/) \| 动手学深度学习 (李沐) ![GitHub Repo stars](https://img.shields.io/github/stars/d2l-ai/d2l-zh)
 - [leedl-tutorial](https://cjqshu.github.io/books/LeeDL_Tutorial.pdf) \| 深度学习教程 (李宏毅) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/leedl-tutorial)
 - [nndl](https://nndl.github.io/nndl-book.pdf) \| 神经网络与深度学习 (邱锡鹏) ![GitHub Repo stars](https://img.shields.io/github/stars/nndl/nndl.github.io)

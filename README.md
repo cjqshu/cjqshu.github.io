@@ -27,6 +27,7 @@
 - [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) \| [badge](https://github.com/pudding0503/github-badge-collection)
 - [Datawhale](https://github.com/datawhalechina)
 - [Huang Haiguang](https://github.com/fengdu78)
+- [karpathy](https://github.com/karpathy)
 - [van der Schaar Lab](https://github.com/vanderschaarlab/mlforhealthlabpub)
 
 ### 1.2. Projects and Documents

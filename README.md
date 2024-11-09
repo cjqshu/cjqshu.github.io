@@ -89,7 +89,7 @@
 - [d2l](https://zh-v2.d2l.ai/) \| 动手学深度学习 (李沐) ![GitHub Repo stars](https://img.shields.io/github/stars/d2l-ai/d2l-zh)
 - [leedl-tutorial](https://cjqshu.github.io/books/LeeDL_Tutorial.pdf) \| 深度学习教程 (李宏毅) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/leedl-tutorial)
 - [nndl](https://nndl.github.io/nndl-book.pdf) \| 神经网络与深度学习 (邱锡鹏) ![GitHub Repo stars](https://img.shields.io/github/stars/nndl/nndl.github.io)
-- [tlbook](https://cjqshu.github.io/books/迁移学习导论第2版_王晋东.pdf) \| 迁移学习导论 ([王晋东](https://github.com/jindongwang)) 
+- [tl-book](https://cjqshu.github.io/books/迁移学习导论第2版_王晋东.pdf) \| [code](https://github.com/jindongwang/tlbook-code) \| 迁移学习导论 \| ([王晋东](https://github.com/jindongwang)) ![GitHub Repo stars](https://img.shields.io/github/stars/jindongwang/transferlearning)
 - [深度学习调优指南中文版](https://cjqshu.github.io/books/深度学习调参指南中文版.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/schrodingercatss/tuning_playbook_zh_cn)
 
 ### 5.2. Thinking Method

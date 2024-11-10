@@ -102,6 +102,7 @@
 
 - [Read-the-Docs](https://github.com/readthedocs/readthedocs.org/) \| [readthedocs-demo](https://readthedocs-demo-zh.readthedocs.io/) \| [文档编排](https://docgenerate.readthedocs.io/)
 - [Jupyter-Book](https://jupyterbook.org/) \| [中文文档](https://daobook.github.io/jupyter-book-zh/) \| [ExecutableBooksProject](https://executablebooks.org/)
+- [了不起的markdown](https://cjqshu.github.io/books/了不起的markdown_莫小朋.pdf)
 
 
 ## 6. English

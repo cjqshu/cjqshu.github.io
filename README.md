@@ -14,7 +14,7 @@
 - [5. Books](#5-books)
 	- [5.1. ML and DL](#51-ml-and-dl)
 	- [5.2. Thinking Method](#52-thinking-method)
-	- [Tools](#tools)
+	- [5.3. Tools](#53-tools)
 - [6. English](#6-english)
 - [7. My Links](#7-my-links)
 
@@ -98,7 +98,7 @@
 - [高效能人士的七个习惯](https://cjqshu.github.io/books/高效能人士的七个习惯_30周年纪念版.pdf)
 - [高效能人士的思维导图](https://cjqshu.github.io/books/高效能人士的思维导图_席音.pdf)
 
-### Tools
+### 5.3. Tools
 
 - [Read-the-Docs](https://github.com/readthedocs/readthedocs.org/) \| [readthedocs-demo](https://readthedocs-demo-zh.readthedocs.io/) \| [文档编排](https://docgenerate.readthedocs.io/)
 - [Jupyter-Book](https://jupyterbook.org/) \| [中文文档](https://daobook.github.io/jupyter-book-zh/) \| [ExecutableBooksProject](https://executablebooks.org/)

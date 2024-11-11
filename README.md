@@ -13,9 +13,9 @@
 	- [4.2. PyTorch](#42-pytorch)
 - [5. Books](#5-books)
 	- [5.1. ML and DL](#51-ml-and-dl)
-	- [Causal Inference](#causal-inference)
-	- [5.2. Thinking Method](#52-thinking-method)
-	- [5.3. Tools](#53-tools)
+	- [5.2. Causal Inference](#52-causal-inference)
+	- [5.3. Thinking Method](#53-thinking-method)
+	- [5.4. Tools](#54-tools)
 - [6. English](#6-english)
 - [7. My Links](#7-my-links)
 
@@ -94,17 +94,17 @@
 - [tl-book](https://cjqshu.github.io/books/迁移学习导论第2版_王晋东.pdf) \| [tl-code](https://github.com/jindongwang/tlbook-code) \| 迁移学习导论 \| [DeepDA](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDA) \| [tl-repo](https://github.com/jindongwang/transferlearning) \| ([王晋东](https://github.com/jindongwang)) ![GitHub Repo stars](https://img.shields.io/github/stars/jindongwang/transferlearning)
 - [深度学习调优指南中文版](https://cjqshu.github.io/books/深度学习调参指南中文版.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/schrodingercatss/tuning_playbook_zh_cn)
 
-### Causal Inference
+### 5.2. Causal Inference
 
 - [Introduction to Causal Inference](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf) (Brady Neal)
 - [test](books/LeeDL_Tutorial.pdf)
 
-### 5.2. Thinking Method
+### 5.3. Thinking Method
 
 - [高效能人士的七个习惯](https://cjqshu.github.io/books/高效能人士的七个习惯_30周年纪念版.pdf)
 - [高效能人士的思维导图](https://cjqshu.github.io/books/高效能人士的思维导图_席音.pdf)
 
-### 5.3. Tools
+### 5.4. Tools
 
 - [Read-the-Docs](https://github.com/readthedocs/readthedocs.org/) \| [readthedocs-demo](https://readthedocs-demo-zh.readthedocs.io/) \| [文档编排](https://docgenerate.readthedocs.io/)
 - [Jupyter-Book](https://jupyterbook.org/) \| [中文文档](https://daobook.github.io/jupyter-book-zh/) \| [ExecutableBooksProject](https://executablebooks.org/)

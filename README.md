@@ -97,7 +97,7 @@
 ### 5.2. Causal Inference
 
 - [Introduction to Causal Inference](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf) (Brady Neal)
-- [test](books/LeeDL_Tutorial.pdf)
+
 
 ### 5.3. Thinking Method
 

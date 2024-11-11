@@ -97,6 +97,8 @@
 ### 5.2. Causal Inference
 
 - [Introduction to Causal Inference](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf) (Brady Neal)
+- [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/) ![GitHub Repo stars](https://img.shields.io/github/stars/matheusfacure/python-causality-handbook)
+
 
 
 ### 5.3. Thinking Method

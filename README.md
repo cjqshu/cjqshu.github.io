@@ -98,6 +98,7 @@
 
 - [Introduction to Causal Inference](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf) (Brady Neal)
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/) \| [中文版](https://github.com/xieliaing/CausalInferenceIntro) ![GitHub Repo stars](https://img.shields.io/github/stars/matheusfacure/python-causality-handbook)
+- [A First Course in Causal Inference](https://arxiv.org/pdf/2305.18793) (丁鹏 Peng Ding)
 
 
 

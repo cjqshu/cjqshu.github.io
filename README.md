@@ -13,6 +13,7 @@
 	- [4.2. PyTorch](#42-pytorch)
 - [5. Books](#5-books)
 	- [5.1. ML and DL](#51-ml-and-dl)
+	- [Causal Inference](#causal-inference)
 	- [5.2. Thinking Method](#52-thinking-method)
 	- [5.3. Tools](#53-tools)
 - [6. English](#6-english)
@@ -92,6 +93,11 @@
 - [nndl](https://nndl.github.io/nndl-book.pdf) \| 神经网络与深度学习 (邱锡鹏) ![GitHub Repo stars](https://img.shields.io/github/stars/nndl/nndl.github.io)
 - [tl-book](https://cjqshu.github.io/books/迁移学习导论第2版_王晋东.pdf) \| [tl-code](https://github.com/jindongwang/tlbook-code) \| 迁移学习导论 \| [DeepDA](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDA) \| [tl-repo](https://github.com/jindongwang/transferlearning) \| ([王晋东](https://github.com/jindongwang)) ![GitHub Repo stars](https://img.shields.io/github/stars/jindongwang/transferlearning)
 - [深度学习调优指南中文版](https://cjqshu.github.io/books/深度学习调参指南中文版.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/schrodingercatss/tuning_playbook_zh_cn)
+
+### Causal Inference
+
+- [Introduction to Causal Inference](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf) (Brady Neal)
+- [test](books/LeeDL_Tutorial.pdf)
 
 ### 5.2. Thinking Method
 

@@ -29,7 +29,7 @@ from utils import xavier_init, batch_generator
 
 class SampleClass(object):
     """Summary of class here.
-    url: https://www.runoob.com/w3cnote/google-python-styleguide.html
+    # https://www.runoob.com/w3cnote/google-python-styleguide.html (url)
 
     Longer class information....
     Longer class information....
@@ -51,7 +51,7 @@ class SampleClass(object):
 def ganite (train_x, train_t, train_y, test_x, parameters):
   """GANITE module. (description, summary or abstract)
   
-  Args (Inputs):
+  Arguments (Inputs): 
       train_x (tuple of Tensors or Tensor): features in training data
       train_t (tuple of Tensors or Tensor): treatments in training data
       train_y (tuple of Tensors or Tensor): observed outcomes in training data

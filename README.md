@@ -38,6 +38,7 @@
 - [你缺失的那门计算机课](https://www.criwits.top/missing/)
 - [Missing-Necessary-Knowledge-for-CS-Students](https://github.com/Snowflyt/Missing-Necessary-Knowledge-for-CS-Students)
 - [missing-semester-en](https://missing.csail.mit.edu/) \| [missing-semester-cn](https://missing-semester-cn.github.io/) \| 计算机教育中缺失的一课 ![GitHub Repo stars](https://img.shields.io/github/stars/missing-semester-cn/missing-semester-cn.github.io)
+- [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) \| [十大经典排序算法](https://sort.hust.cc/) ![GitHub Repo stars](https://img.shields.io/github/stars/hustcc/JS-Sorting-Algorithm)
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 - [runoob](https://www.runoob.com/) \| running noob
 - [w3school](https://www.w3school.com.cn/) \| web开发者资源  <!--w3: World Wide Web 万维网 -->
@@ -115,7 +116,8 @@
 
 - [Read-the-Docs](https://github.com/readthedocs/readthedocs.org/) \| [readthedocs-demo](https://readthedocs-demo-zh.readthedocs.io/) \| [文档编排](https://docgenerate.readthedocs.io/)
 - [Jupyter-Book](https://jupyterbook.org/) \| [中文文档](https://daobook.github.io/jupyter-book-zh/) \| [ExecutableBooksProject](https://executablebooks.org/)
-- [了不起的markdown](https://cjqshu.github.io/books/了不起的markdown_莫小朋.pdf)
+- [gitbook](https://github.com/GitbookIO/gitbook) \| [中文文档-1](https://chrisniael.gitbooks.io/gitbook-documentation/content/) \| [中文文档-2](https://demones.github.io/gitbook-guide/) ![GitHub Repo stars](https://img.shields.io/github/stars/GitbookIO/gitbook)
+- [了不起的markdown](https://cjqshu.github.io/books/了不起的markdown_莫小朋.pdf) \| [Cmd Markdown](https://www.zybuluo.com/cmd/)
 
 
 ## 6. English

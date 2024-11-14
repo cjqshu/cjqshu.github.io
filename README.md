@@ -37,7 +37,7 @@
 
 - [你缺失的那门计算机课](https://www.criwits.top/missing/)
 - [Missing-Necessary-Knowledge-for-CS-Students](https://github.com/Snowflyt/Missing-Necessary-Knowledge-for-CS-Students)
-- [missing-semester-cn](https://missing-semester-cn.github.io/) \| 计算机教育中缺失的一课 ![GitHub Repo stars](https://img.shields.io/github/stars/missing-semester-cn/missing-semester-cn.github.io)
+- [missing-semester-en](https://missing.csail.mit.edu/) \| [missing-semester-cn](https://missing-semester-cn.github.io/) \| 计算机教育中缺失的一课 ![GitHub Repo stars](https://img.shields.io/github/stars/missing-semester-cn/missing-semester-cn.github.io)
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 - [runoob](https://www.runoob.com/) \| running noob
 - [w3school](https://www.w3school.com.cn/) \| web开发者资源  <!--w3: World Wide Web 万维网 -->

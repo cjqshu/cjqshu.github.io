@@ -21,8 +21,6 @@
 
 <!-- ![GitHub Repo stars](https://img.shields.io/github/stars/username_github/repository_github) -->
 
----
-
 ## 1. Open Source
 
 ### 1.1. Organizations
@@ -48,7 +46,6 @@
 - [IT教程网](https://zglg.work/) \| [AI之家](https://ai-jupyter.com/)
 - [莫烦python](https://mofanpy.com/) \| [MorvanZhou](https://github.com/MorvanZhou)
 
----
 
 ## 2. Data Analysis
 
@@ -68,7 +65,6 @@
 - [pandas](https://pandas.pydata.org/) \| [中文文档-1](https://pandas.github.net.cn/) \| [中文文档-2](https://www.pypandas.cn/) \| [pandas进阶宝典](https://ygo20xz0w9.feishu.cn/docx/DFZydKHSwoLIqYx3MNncPvOxnlc) ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
 - [matplotlib](https://matplotlib.org/) \| [中文文档-1](https://matplotlib.net/) \| [中文文档-2](https://www.matplotlib.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib)
 
----
 
 ## 3. Machine Learning Libraries
 
@@ -77,7 +73,6 @@
 - [lazypredict](https://github.com/shankarpandala/lazypredict) ![GitHub Repo stars](https://img.shields.io/github/stars/shankarpandala/lazypredict)
 - [AI工具中文文档库](http://www.aidoczh.com/)
 
----
 
 ## 4. Deep Learning Frameworks
 
@@ -93,7 +88,6 @@
 - [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) \| [完整版](https://cjqshu.github.io/thorough-pytorch/) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) ![GitHub Repo stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd)
 
----
 
 ## 5. Books
 
@@ -105,6 +99,7 @@
 - [nndl](https://nndl.github.io/nndl-book.pdf) \| 神经网络与深度学习 (邱锡鹏) ![GitHub Repo stars](https://img.shields.io/github/stars/nndl/nndl.github.io)
 - [tl-book](https://cjqshu.github.io/books/迁移学习导论第2版_王晋东.pdf) \| [tl-code](https://github.com/jindongwang/tlbook-code) \| 迁移学习导论 \| [DeepDA](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDA) \| [tl-repo](https://github.com/jindongwang/transferlearning) \| ([王晋东](https://github.com/jindongwang)) ![GitHub Repo stars](https://img.shields.io/github/stars/jindongwang/transferlearning)
 - [深度学习调优指南中文版](https://cjqshu.github.io/books/深度学习调参指南中文版.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/schrodingercatss/tuning_playbook_zh_cn)
+- [machine-learning-deep-learning-notes](https://github.com/loveunk/machine-learning-deep-learning-notes) ![GitHub Repo stars](https://img.shields.io/github/stars/loveunk/machine-learning-deep-learning-notes)
 
 ### 5.2. Causal Inference
 
@@ -126,12 +121,10 @@
 - [gitbook](https://github.com/GitbookIO/gitbook) \| [中文文档-1](https://chrisniael.gitbooks.io/gitbook-documentation/content/) \| [中文文档-2](https://demones.github.io/gitbook-guide/) ![GitHub Repo stars](https://img.shields.io/github/stars/GitbookIO/gitbook)
 - [了不起的markdown](https://cjqshu.github.io/books/了不起的markdown_莫小朋.pdf) \| [Cmd Markdown](https://www.zybuluo.com/cmd/)
 
----
 
 ## 6. English
 - [earthworm](https://github.com/cuixueshe/earthworm) \| `连词成句` `i+1` `以终为始` ![GitHub Repo stars](https://img.shields.io/github/stars/cuixueshe/earthworm)
 
----
 
 ## 7. My Links
 <!-- Other Links -->

@@ -28,10 +28,11 @@
 - [Awesome-AISourceHub](https://www.aisourcehub.info/) \| 全网优质信息源 ![GitHub Repo stars](https://img.shields.io/github/stars/AmbroseX/Awesome-AISourceHub)
 - [软件安装家园](https://mp.weixin.qq.com/s/Pdzrg4AhycKuZFPAMT74vA)
 - [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) \| [badge](https://github.com/pudding0503/github-badge-collection)
-- [Datawhale](https://github.com/datawhalechina)
+- [Datawhale](https://github.com/datawhalechina) \| 数据科学与 AI 领域的开源组织
 - [Huang Haiguang](https://github.com/fengdu78)
 - [karpathy](https://github.com/karpathy)
-- [van der Schaar Lab](https://github.com/vanderschaarlab/mlforhealthlabpub)
+- [van der Schaar Lab](https://github.com/vanderschaarlab/mlforhealthlabpub) \| Machine Learning and Artificial Intelligence for Medicine
+- [Kanaries](https://github.com/Kanaries) \| Make visual exploration accessible for everyone
 
 ### 1.2. Projects and Documents
 
@@ -119,7 +120,7 @@
 - [Read-the-Docs](https://github.com/readthedocs/readthedocs.org/) \| [readthedocs-demo](https://readthedocs-demo-zh.readthedocs.io/) \| [文档编排](https://docgenerate.readthedocs.io/)
 - [Jupyter-Book](https://jupyterbook.org/) \| [中文文档](https://daobook.github.io/jupyter-book-zh/) \| [ExecutableBooksProject](https://executablebooks.org/)
 - [gitbook](https://github.com/GitbookIO/gitbook) \| [中文文档-1](https://chrisniael.gitbooks.io/gitbook-documentation/content/) \| [中文文档-2](https://demones.github.io/gitbook-guide/) ![GitHub Repo stars](https://img.shields.io/github/stars/GitbookIO/gitbook)
-- [了不起的markdown](https://cjqshu.github.io/books/了不起的markdown_莫小朋.pdf) \| [Cmd Markdown](https://www.zybuluo.com/cmd/)
+- [了不起的markdown](https://cjqshu.github.io/books/了不起的markdown_莫小朋.pdf) \| [Cmd Markdown](https://www.zybuluo.com/cmd/) | [tutorial](https://cjqshu.github.io/codes/markdown_tutorial.md)
 
 
 ## 6. English

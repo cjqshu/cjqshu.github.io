@@ -27,7 +27,7 @@
 
 - [Awesome-AISourceHub](https://www.aisourcehub.info/) \| 全网优质信息源 ![GitHub Repo stars](https://img.shields.io/github/stars/AmbroseX/Awesome-AISourceHub)
 - [软件安装家园](https://mp.weixin.qq.com/s/Pdzrg4AhycKuZFPAMT74vA)
-- [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) \| [badge](https://github.com/pudding0503/github-badge-collection)
+- [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) \| [badge](https://github.com/pudding0503/github-badge-collection) \| [search-github](https://docs.github.com/zh/search-github)
 - [Datawhale](https://github.com/datawhalechina) \| 数据科学与 AI 领域的开源组织
 - [Huang Haiguang](https://github.com/fengdu78)
 - [karpathy](https://github.com/karpathy)
@@ -72,6 +72,7 @@
 - [scikit-learn](https://scikit-learn.org/) \| [中文文档-1](https://scikit-learn.cn/) \| [中文文档-2](https://scikitlearn.com.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn)
 - [pycaret](https://pycaret.gitbook.io/docs) \| [中文文档](http://www.aidoczh.com/docs/pycaret/)  ![GitHub Repo stars](https://img.shields.io/github/stars/pycaret/pycaret)
 - [lazypredict](https://github.com/shankarpandala/lazypredict) ![GitHub Repo stars](https://img.shields.io/github/stars/shankarpandala/lazypredict)
+- [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) \| production-grade ML applications ![GitHub Repo stars](https://img.shields.io/github/stars/GokuMohandas/Made-With-ML)
 - [AI工具中文文档库](http://www.aidoczh.com/)
 
 

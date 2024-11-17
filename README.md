@@ -72,7 +72,7 @@
 - [scikit-learn](https://scikit-learn.org/) \| [中文文档-1](https://scikit-learn.cn/) \| [中文文档-2](https://scikitlearn.com.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn)
 - [pycaret](https://pycaret.gitbook.io/docs) \| [中文文档](http://www.aidoczh.com/docs/pycaret/)  ![GitHub Repo stars](https://img.shields.io/github/stars/pycaret/pycaret)
 - [lazypredict](https://github.com/shankarpandala/lazypredict) ![GitHub Repo stars](https://img.shields.io/github/stars/shankarpandala/lazypredict)
-- [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) \| production-grade ML applications ![GitHub Repo stars](https://img.shields.io/github/stars/GokuMohandas/Made-With-ML)
+- [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) \| Design · Develop · Deploy · Iterate ![GitHub Repo stars](https://img.shields.io/github/stars/GokuMohandas/Made-With-ML)
 - [AI工具中文文档库](http://www.aidoczh.com/)
 
 

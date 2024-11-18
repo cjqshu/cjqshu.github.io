@@ -109,8 +109,6 @@
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/) \| [中文版](https://github.com/xieliaing/CausalInferenceIntro) ![GitHub Repo stars](https://img.shields.io/github/stars/matheusfacure/python-causality-handbook)
 - [A First Course in Causal Inference](https://arxiv.org/pdf/2305.18793) (丁鹏 Peng Ding)
 
-
-
 ### 5.3. Thinking Method
 
 - [高效能人士的七个习惯](https://cjqshu.github.io/books/高效能人士的七个习惯_30周年纪念版.pdf)

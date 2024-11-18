@@ -39,7 +39,7 @@
 - [你缺失的那门计算机课](https://www.criwits.top/missing/)
 - [Missing-Necessary-Knowledge-for-CS-Students](https://github.com/Snowflyt/Missing-Necessary-Knowledge-for-CS-Students)
 - [missing-semester-en](https://missing.csail.mit.edu/) \| [missing-semester-cn](https://missing-semester-cn.github.io/) \| 计算机教育中缺失的一课 ![GitHub Repo stars](https://img.shields.io/github/stars/missing-semester-cn/missing-semester-cn.github.io)
-- [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) \| [十大经典排序算法](https://sort.hust.cc/) ![GitHub Repo stars](https://img.shields.io/github/stars/hustcc/JS-Sorting-Algorithm)
+- [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) \| [十大经典排序算法](https://sort.hust.cc/) \| [算法+数据结构](https://www.bilibili.com/video/BV1mp4y1D7UP?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) ![GitHub Repo stars](https://img.shields.io/github/stars/hustcc/JS-Sorting-Algorithm)
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 - [runoob](https://www.runoob.com/) \| running noob
 - [w3school](https://www.w3school.com.cn/) \| web开发者资源  <!--w3: World Wide Web 万维网 -->
@@ -61,7 +61,7 @@
 <!-- tutorials -->
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 
-- [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/) \| [中文文档](https://docs.python.org/zh-cn/) \| [cheatsheet-1](https://www.pythoncheatsheet.org/) \| [cheatsheet-2](https://github.com/gto76/python-cheatsheet) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
+- [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/) \| [中文文档](https://docs.python.org/zh-cn/) \| [cheatsheet-1](https://www.pythoncheatsheet.org/) \| [cheatsheet-2](https://github.com/gto76/python-cheatsheet) \| [video-1](https://www.bilibili.com/video/BV16H4y1Q7tj?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) \|[video-2](https://open.163.com/newview/movie/free?pid=ZH8JDOTIC&mid=CH8JFI5FO) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
 - [numpy](https://numpy.org/) \| [中文文档-1](https://numpy.net/) \| [中文文档-2](https://www.numpy.org.cn/) \| [numpy速查手册](https://ygo20xz0w9.feishu.cn/docx/FklNd45A0ofMkdxHUgRcS2g2nqc) ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)
 - [pandas](https://pandas.pydata.org/) \| [中文文档-1](https://pandas.github.net.cn/) \| [中文文档-2](https://www.pypandas.cn/) \| [pandas进阶宝典](https://ygo20xz0w9.feishu.cn/docx/DFZydKHSwoLIqYx3MNncPvOxnlc) ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
 - [matplotlib](https://matplotlib.org/) \| [中文文档-1](https://matplotlib.net/) \| [中文文档-2](https://www.matplotlib.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib)

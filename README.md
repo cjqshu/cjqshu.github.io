@@ -42,6 +42,7 @@
 - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) \| [十大经典排序算法](https://sort.hust.cc/) \| [算法+数据结构](https://www.bilibili.com/video/BV1mp4y1D7UP?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) ![GitHub Repo stars](https://img.shields.io/github/stars/hustcc/JS-Sorting-Algorithm)
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 - [重构改善既有代码的设计-中文版](https://book-refactoring2.ifmicro.com/)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) \| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ![GitHub Repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books)
 - [runoob](https://www.runoob.com/) \| running noob
 - [w3school](https://www.w3school.com.cn/) \| web开发者资源  <!--w3: World Wide Web 万维网 -->
 - [廖雪峰的官方网站](https://liaoxuefeng.com/)
@@ -88,7 +89,7 @@
 ### 4.2. PyTorch
 
 - [官网](https://pytorch.org/) \| [docs](https://pytorch.org/docs/) \| [中文文档](https://pytorch-cn.readthedocs.io/) \| [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch)
-- [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) \| [完整版](https://cjqshu.github.io/thorough-pytorch/) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
+- [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) \| [完整版](https://cjqshu.github.io/thorough-pytorch/) \| [video](https://www.bilibili.com/video/BV1L44y1472Z) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) ![GitHub Repo stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd)
 
 

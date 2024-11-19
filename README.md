@@ -121,7 +121,7 @@
 - [Read-the-Docs](https://github.com/readthedocs/readthedocs.org/) \| [readthedocs-demo](https://readthedocs-demo-zh.readthedocs.io/) \| [文档编排](https://docgenerate.readthedocs.io/)
 - [Jupyter-Book](https://jupyterbook.org/) \| [中文文档](https://daobook.github.io/jupyter-book-zh/) \| [ExecutableBooksProject](https://executablebooks.org/)
 - [gitbook](https://github.com/GitbookIO/gitbook) \| [中文文档-1](https://chrisniael.gitbooks.io/gitbook-documentation/content/) \| [中文文档-2](https://demones.github.io/gitbook-guide/) ![GitHub Repo stars](https://img.shields.io/github/stars/GitbookIO/gitbook)
-- [了不起的markdown](https://cjqshu.github.io/books/了不起的markdown_莫小朋.pdf) \| [Cmd Markdown](https://www.zybuluo.com/cmd/) | [tutorial](https://github.com/cjqshu/cjqshu.github.io/blob/main/codes/markdown_tutorial.md)
+- [了不起的markdown](https://cjqshu.github.io/books/了不起的markdown_莫小朋.pdf) \| [Cmd Markdown](https://www.zybuluo.com/cmd/) \| [tutorial-1](https://github.com/cjqshu/cjqshu.github.io/blob/main/codes/markdown_tutorial.md) \| [tutorial-2](https://markdown.com.cn/)
 - [cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) \| flexible project structure ![GitHub Repo stars](https://img.shields.io/github/stars/drivendataorg/cookiecutter-data-science)
 
 

@@ -104,6 +104,7 @@
 - [tl-book](https://cjqshu.github.io/books/迁移学习导论第2版_王晋东.pdf) \| [tl-code](https://github.com/jindongwang/tlbook-code) \| 迁移学习导论 \| [DeepDA](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDA) \| [tl-repo](https://github.com/jindongwang/transferlearning) \| ([王晋东](https://github.com/jindongwang)) ![GitHub Repo stars](https://img.shields.io/github/stars/jindongwang/transferlearning)
 - [深度学习调优指南中文版](https://cjqshu.github.io/books/深度学习调参指南中文版.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/schrodingercatss/tuning_playbook_zh_cn)
 - [machine-learning-deep-learning-notes](https://github.com/loveunk/machine-learning-deep-learning-notes) ![GitHub Repo stars](https://img.shields.io/github/stars/loveunk/machine-learning-deep-learning-notes)
+- [PaddleEdu](https://paddlepedia.readthedocs.io/) ![GitHub Repo stars](https://img.shields.io/github/stars/PaddlePaddle/awesome-DeepLearning)
 
 ### 5.2. Causal Inference
 
@@ -127,6 +128,7 @@
 
 ## 6. English
 - [earthworm](https://github.com/cuixueshe/earthworm) \| `连词成句` `i+1` `以终为始` ![GitHub Repo stars](https://img.shields.io/github/stars/cuixueshe/earthworm)
+- [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) ![GitHub Repo stars](https://img.shields.io/github/stars/ZuodaoTech/everyone-can-use-english)
 
 
 ## 7. My Links

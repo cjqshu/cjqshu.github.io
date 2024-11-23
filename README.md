@@ -27,7 +27,7 @@
 
 - [Awesome-AISourceHub](https://www.aisourcehub.info/) \| 全网优质信息源 ![GitHub Repo stars](https://img.shields.io/github/stars/AmbroseX/Awesome-AISourceHub)
 - [软件安装家园](https://mp.weixin.qq.com/s/Pdzrg4AhycKuZFPAMT74vA)
-- [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) \| [badge](https://github.com/pudding0503/github-badge-collection) \| [search-github](https://docs.github.com/zh/search-github)
+- [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [badge](https://github.com/pudding0503/github-badge-collection) \| [search-github](https://docs.github.com/zh/search-github) \| [emoji-1](https://www.webfx.com/tools/emoji-cheat-sheet) \| [emoji-2](https://github.com/ikatyang/emoji-cheat-sheet) \| [emoji-3](https://wangchujiang.com/reference/docs/emoji.html)
 - [Datawhale](https://github.com/datawhalechina) \| 数据科学与 AI 领域的开源组织
 - [Huang Haiguang](https://github.com/fengdu78)
 - [karpathy](https://github.com/karpathy)
@@ -124,6 +124,7 @@
 - [gitbook](https://github.com/GitbookIO/gitbook) \| [中文文档-1](https://chrisniael.gitbooks.io/gitbook-documentation/content/) \| [中文文档-2](https://demones.github.io/gitbook-guide/) ![GitHub Repo stars](https://img.shields.io/github/stars/GitbookIO/gitbook)
 - [了不起的markdown](https://cjqshu.github.io/books/了不起的markdown_莫小朋.pdf) \| [Cmd Markdown](https://www.zybuluo.com/cmd/) \| [tutorial-1](https://github.com/cjqshu/cjqshu.github.io/blob/main/codes/markdown_tutorial.md) \| [tutorial-2](https://markdown.com.cn/)
 - [cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) \| flexible project structure ![GitHub Repo stars](https://img.shields.io/github/stars/drivendataorg/cookiecutter-data-science)
+- [reference-cn](https://wangchujiang.com/reference/) \| [reference-en](https://cheatsheets.zip/) \| 速查表 ![GitHub Repo stars](https://img.shields.io/github/stars/jaywcjlove/reference)
 
 
 ## 6. English

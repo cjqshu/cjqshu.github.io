@@ -27,6 +27,7 @@
 
 - [Awesome-AISourceHub](https://www.aisourcehub.info/) \| 全网优质信息源 ![GitHub Repo stars](https://img.shields.io/github/stars/AmbroseX/Awesome-AISourceHub)
 - [软件安装家园](https://mp.weixin.qq.com/s/Pdzrg4AhycKuZFPAMT74vA)
+- [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [badge](https://github.com/pudding0503/github-badge-collection) \| [search-github](https://docs.github.com/zh/search-github) 
   - [emoji-1](https://www.webfx.com/tools/emoji-cheat-sheet) \| [emoji-2](https://github.com/ikatyang/emoji-cheat-sheet) \| [emoji-3](https://wangchujiang.com/reference/docs/emoji.html) \| [emoji-4](https://v2fy.com/p/023emoji_%e8%a1%a8%e6%83%85%e7%ac%a6%e5%8f%b7bqb/?post_category=%e4%b8%ad%e5%9b%bd%e4%ba%ba%e7%9a%84%e8%a1%a8%e6%83%85%e5%8c%85-pp%e5%88%b6%e9%80%a0%e8%ae%a1%e5%88%92-chinesebqb)
 - [Datawhale](https://github.com/datawhalechina) \| 数据科学与 AI 领域的开源组织
 - [Huang Haiguang](https://github.com/fengdu78)

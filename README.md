@@ -39,7 +39,7 @@
 - [你缺失的那门计算机课](https://www.criwits.top/missing/)
 - [Missing-Necessary-Knowledge-for-CS-Students](https://github.com/Snowflyt/Missing-Necessary-Knowledge-for-CS-Students)
 - [missing-semester-en](https://missing.csail.mit.edu/) \| [missing-semester-cn](https://missing-semester-cn.github.io/) \| 计算机教育中缺失的一课 ![GitHub Repo stars](https://img.shields.io/github/stars/missing-semester-cn/missing-semester-cn.github.io)
-- [cs-self-learning](https://csdiy.wiki/) | 计算机自学指南 ![GitHub Repo stars](https://img.shields.io/github/stars/pkuflyingpig/cs-self-learning) 
+- [cs-self-learning](https://csdiy.wiki/) \| 计算机自学指南 ![GitHub Repo stars](https://img.shields.io/github/stars/pkuflyingpig/cs-self-learning) 
 - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) \| [十大经典排序算法](https://sort.hust.cc/) \| [算法+数据结构](https://www.bilibili.com/video/BV1mp4y1D7UP?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) ![GitHub Repo stars](https://img.shields.io/github/stars/hustcc/JS-Sorting-Algorithm)
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 - [重构改善既有代码的设计—中文版](https://book-refactoring2.ifmicro.com/)

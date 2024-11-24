@@ -27,7 +27,7 @@
 
 - [Awesome-AISourceHub](https://www.aisourcehub.info/) \| 全网优质信息源 ![GitHub Repo stars](https://img.shields.io/github/stars/AmbroseX/Awesome-AISourceHub)
 - [软件安装家园](https://mp.weixin.qq.com/s/Pdzrg4AhycKuZFPAMT74vA)
-- [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [badge](https://github.com/pudding0503/github-badge-collection) \| [search-github](https://docs.github.com/zh/search-github) \| [emoji-1](https://www.webfx.com/tools/emoji-cheat-sheet) \| [emoji-2](https://github.com/ikatyang/emoji-cheat-sheet) \| [emoji-3](https://wangchujiang.com/reference/docs/emoji.html)
+- [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [badge](https://github.com/pudding0503/github-badge-collection) \| [search-github](https://docs.github.com/zh/search-github) \| [emoji-1](https://www.webfx.com/tools/emoji-cheat-sheet) \| [emoji-2](https://github.com/ikatyang/emoji-cheat-sheet) \| [emoji-3](https://wangchujiang.com/reference/docs/emoji.html) \| [emoji-4](https://v2fy.com/p/023emoji_%e8%a1%a8%e6%83%85%e7%ac%a6%e5%8f%b7bqb/?post_category=%e4%b8%ad%e5%9b%bd%e4%ba%ba%e7%9a%84%e8%a1%a8%e6%83%85%e5%8c%85-pp%e5%88%b6%e9%80%a0%e8%ae%a1%e5%88%92-chinesebqb)
 - [Datawhale](https://github.com/datawhalechina) \| 数据科学与 AI 领域的开源组织
 - [Huang Haiguang](https://github.com/fengdu78)
 - [karpathy](https://github.com/karpathy)
@@ -39,6 +39,7 @@
 - [你缺失的那门计算机课](https://www.criwits.top/missing/)
 - [Missing-Necessary-Knowledge-for-CS-Students](https://github.com/Snowflyt/Missing-Necessary-Knowledge-for-CS-Students)
 - [missing-semester-en](https://missing.csail.mit.edu/) \| [missing-semester-cn](https://missing-semester-cn.github.io/) \| 计算机教育中缺失的一课 ![GitHub Repo stars](https://img.shields.io/github/stars/missing-semester-cn/missing-semester-cn.github.io)
+- [cs-self-learning](https://csdiy.wiki/) | 计算机自学指南 ![GitHub Repo stars](https://img.shields.io/github/stars/pkuflyingpig/cs-self-learning) 
 - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) \| [十大经典排序算法](https://sort.hust.cc/) \| [算法+数据结构](https://www.bilibili.com/video/BV1mp4y1D7UP?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) ![GitHub Repo stars](https://img.shields.io/github/stars/hustcc/JS-Sorting-Algorithm)
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 - [重构改善既有代码的设计—中文版](https://book-refactoring2.ifmicro.com/)
@@ -105,6 +106,7 @@
 - [深度学习调优指南中文版](https://cjqshu.github.io/books/深度学习调参指南中文版.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/schrodingercatss/tuning_playbook_zh_cn)
 - [machine-learning-deep-learning-notes](https://github.com/loveunk/machine-learning-deep-learning-notes) ![GitHub Repo stars](https://img.shields.io/github/stars/loveunk/machine-learning-deep-learning-notes)
 - [PaddleEdu](https://paddlepedia.readthedocs.io/) ![GitHub Repo stars](https://img.shields.io/github/stars/PaddlePaddle/awesome-DeepLearning)
+- [tiny-universe](https://github.com/datawhalechina/tiny-universe) \| 大模型白盒子构建指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/tiny-universe)
 
 ### 5.2. Causal Inference
 

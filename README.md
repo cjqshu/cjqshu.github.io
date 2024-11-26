@@ -110,7 +110,7 @@
 - [tiny-universe](https://github.com/datawhalechina/tiny-universe) \| 大模型白盒子构建指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/tiny-universe)
 - [iml-en](https://christophm.github.io/interpretable-ml-book/) \| [iml-cn](https://cjqshu.github.io/books/iml_chinese.pdf) \| Interpretable Machine Learning ![GitHub Repo stars](https://img.shields.io/github/stars/christophM/interpretable-ml-book)
 - [open-mmlab](https://github.com/open-mmlab) \| open-source computer vision algorithm system ![GitHub Org's stars](https://img.shields.io/github/stars/open-mmlab)
-- [Hugging-Face](https://github.com/huggingface) \| The AI community building the future ![GitHub Org's stars](https://img.shields.io/github/stars/huggingface)
+- [hugging-face](https://github.com/huggingface) \| The AI community building the future ![GitHub Org's stars](https://img.shields.io/github/stars/huggingface)
 
 
 ### 5.2. Causal Inference

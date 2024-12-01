@@ -35,6 +35,7 @@
 - [Ruocheng Guo](https://github.com/rguo12) \| causal inference
 - [van der Schaar Lab](https://github.com/vanderschaarlab/mlforhealthlabpub) \| Machine Learning and Artificial Intelligence for Medicine
 - [Kanaries](https://github.com/Kanaries) \| Make visual exploration accessible for everyone
+- [智源社区](https://hub.baai.ac.cn/) \| 人工智能学术社区
 
 ### 1.2. Projects and Documents
 

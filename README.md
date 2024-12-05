@@ -44,6 +44,7 @@
 - [missing-semester-en](https://missing.csail.mit.edu/) \| [missing-semester-cn](https://missing-semester-cn.github.io/) \| 计算机教育中缺失的一课 ![GitHub Repo stars](https://img.shields.io/github/stars/missing-semester-cn/missing-semester-cn.github.io)
 - [cs-self-learning](https://csdiy.wiki/) \| 计算机自学指南 ![GitHub Repo stars](https://img.shields.io/github/stars/pkuflyingpig/cs-self-learning) 
 - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) \| [十大经典排序算法](https://sort.hust.cc/) \| [算法+数据结构](https://www.bilibili.com/video/BV1mp4y1D7UP?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) ![GitHub Repo stars](https://img.shields.io/github/stars/hustcc/JS-Sorting-Algorithm)
+- [Hello算法](https://www.hello-algo.com/) \| 数据结构与算法教程 ![GitHub Repo stars](https://img.shields.io/github/stars/krahets/hello-algo)
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 - [重构改善既有代码的设计—中文版](https://book-refactoring2.ifmicro.com/)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) \| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ![GitHub Repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books)

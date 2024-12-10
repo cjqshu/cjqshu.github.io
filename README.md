@@ -72,7 +72,8 @@
 - [numpy](https://numpy.org/) \| [中文文档-1](https://numpy.net/) \| [中文文档-2](https://www.numpy.org.cn/) \| [numpy速查手册](https://ygo20xz0w9.feishu.cn/docx/FklNd45A0ofMkdxHUgRcS2g2nqc) ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)
 - [pandas](https://pandas.pydata.org/) \| [中文文档-1](https://pandas.github.net.cn/) \| [中文文档-2](https://www.pypandas.cn/) \| [pandas进阶宝典](https://ygo20xz0w9.feishu.cn/docx/DFZydKHSwoLIqYx3MNncPvOxnlc) ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
 - [matplotlib](https://matplotlib.org/) \| [中文文档-1](https://matplotlib.net/) \| [中文文档-2](https://www.matplotlib.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib)
-- [seaborn](https://seaborn.pydata.org/) \| [中文文档-1](https://seaborn.org.cn/)
+  - [seaborn](https://seaborn.pydata.org/) \| [中文文档-1](https://seaborn.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/mwaskom/seaborn)
+  - [图之典](http://www.tuzhidian.com/) \| 可视化图表的词典
 
 
 ## 3. Machine Learning Libraries

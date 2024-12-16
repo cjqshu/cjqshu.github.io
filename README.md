@@ -27,7 +27,8 @@
 
 - [Awesome-AISourceHub](https://www.aisourcehub.info/) \| 全网优质信息源 ![GitHub Repo stars](https://img.shields.io/github/stars/AmbroseX/Awesome-AISourceHub)
 - [软件安装家园](https://mp.weixin.qq.com/s/Pdzrg4AhycKuZFPAMT74vA)
-- [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [badge](https://github.com/pudding0503/github-badge-collection) \| [search-github](https://docs.github.com/zh/search-github) 
+- [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [gitstar-ranking](https://gitstar-ranking.com/) 
+  -  [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [badge](https://github.com/pudding0503/github-badge-collection) \| [search-github](https://docs.github.com/zh/search-github) 
   - [emoji-1](https://www.webfx.com/tools/emoji-cheat-sheet) \| [emoji-2](https://github.com/ikatyang/emoji-cheat-sheet) \| [emoji-3](https://wangchujiang.com/reference/docs/emoji.html) \| [emoji-4](https://v2fy.com/p/023emoji_%e8%a1%a8%e6%83%85%e7%ac%a6%e5%8f%b7bqb/?post_category=%e4%b8%ad%e5%9b%bd%e4%ba%ba%e7%9a%84%e8%a1%a8%e6%83%85%e5%8c%85-pp%e5%88%b6%e9%80%a0%e8%ae%a1%e5%88%92-chinesebqb)
 - [Datawhale](https://github.com/datawhalechina) \| 数据科学与 AI 领域的开源组织
 - [Haiguang Huang](https://github.com/fengdu78) \| machine learning
@@ -35,6 +36,7 @@
 - [Ruocheng Guo](https://github.com/rguo12) \| causal inference
 - [van der Schaar Lab](https://github.com/vanderschaarlab/mlforhealthlabpub) \| Machine Learning and Artificial Intelligence for Medicine
 - [Kanaries](https://github.com/Kanaries) \| Make visual exploration accessible for everyone
+- [lucidrains](https://github.com/lucidrains) \| Working with Attention. It's all we need
 - [智源社区](https://hub.baai.ac.cn/) \| 人工智能学术社区
 
 ### 1.2. Projects and Documents
@@ -95,7 +97,7 @@
 
 ### 4.2. PyTorch
 
-- [官网](https://pytorch.org/) \| [docs](https://pytorch.org/docs/) \| [中文文档](https://pytorch-cn.readthedocs.io/) \| [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch)
+- [官网](https://pytorch.org/) \| [docs](https://pytorch.org/docs/) \| [中文文档](https://pytorch-cn.readthedocs.io/) \| [pytorch-examples-cn](https://github.com/bat67/pytorch-examples-cn) \| [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch)
 - [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) \| [完整版](https://cjqshu.github.io/thorough-pytorch/) \| [video](https://www.bilibili.com/video/BV1L44y1472Z) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) ![GitHub Repo stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd)
 
@@ -115,8 +117,9 @@
 - [tiny-universe](https://github.com/datawhalechina/tiny-universe) \| 大模型白盒子构建指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/tiny-universe)
 - [iml-en](https://christophm.github.io/interpretable-ml-book/) \| [iml-cn](https://cjqshu.github.io/books/iml_chinese.pdf) \| Interpretable Machine Learning ![GitHub Repo stars](https://img.shields.io/github/stars/christophM/interpretable-ml-book)
 - [open-mmlab](https://github.com/open-mmlab) \| open-source computer vision algorithm system ![GitHub Org's stars](https://img.shields.io/github/stars/open-mmlab)
-- [hugging-face](https://github.com/huggingface) \| The AI community building the future 
-<!-- ![GitHub Org's stars](https://img.shields.io/github/stars/huggingface) -->
+- [hugging-face](https://github.com/huggingface) \| The AI community building the future <!-- ![GitHub Org's stars](https://img.shields.io/github/stars/huggingface) -->
+- [numpy-ml](https://numpy-ml.readthedocs.io/en/latest/) \| machine learning models, algorithms, and tools ![GitHub Repo stars](https://img.shields.io/github/stars/ddbourgin/numpy-ml)
+- [cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) \| Code examples in pyTorch and Tensorflow ![GitHub Repo stars](https://img.shields.io/github/stars/cs230-stanford/cs230-code-examples)
 
 
 ### 5.2. Causal Inference

@@ -47,6 +47,7 @@
 - [cs-self-learning](https://csdiy.wiki/) \| 计算机自学指南 ![GitHub Repo stars](https://img.shields.io/github/stars/pkuflyingpig/cs-self-learning) 
 - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) \| [十大经典排序算法](https://sort.hust.cc/) \| [算法+数据结构](https://www.bilibili.com/video/BV1mp4y1D7UP?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) ![GitHub Repo stars](https://img.shields.io/github/stars/hustcc/JS-Sorting-Algorithm)
 - [Hello算法](https://www.hello-algo.com/) \| 数据结构与算法教程 ![GitHub Repo stars](https://img.shields.io/github/stars/krahets/hello-algo)
+- [labuladong的算法笔记](https://labuladong.online/algo/) ![GitHub Repo stars](https://img.shields.io/github/stars/labuladong/fucking-algorithm)
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 - [重构改善既有代码的设计—中文版](https://book-refactoring2.ifmicro.com/)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) \| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ![GitHub Repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books)
@@ -98,7 +99,8 @@
 
 ### 4.2. PyTorch
 
-- [官网](https://pytorch.org/) \| [docs](https://pytorch.org/docs/) \| [中文文档](https://pytorch-cn.readthedocs.io/) \| [pytorch-examples-cn](https://github.com/bat67/pytorch-examples-cn) \| [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch)
+- [官网](https://pytorch.org/) \| [docs](https://pytorch.org/docs/) \| [中文文档1](https://pytorch.ac.cn/) \| [中文文档2](https://pytorch-cn.readthedocs.io/) \| [pytorch-examples-cn](https://github.com/bat67/pytorch-examples-cn) \| [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch)
+- [PyTorch学习笔记](https://pytorch.zhangxiann.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/zhangxiann/PyTorch_Practice)
 - [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) \| [完整版](https://cjqshu.github.io/thorough-pytorch/) \| [video](https://www.bilibili.com/video/BV1L44y1472Z) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) ![GitHub Repo stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd)
 
@@ -143,6 +145,7 @@
 - [了不起的markdown](https://cjqshu.github.io/books/了不起的markdown_莫小朋.pdf) \| [Cmd Markdown](https://www.zybuluo.com/cmd/) \| [tutorial-1](https://github.com/cjqshu/cjqshu.github.io/blob/main/codes/markdown_tutorial.md) \| [tutorial-2](https://markdown.com.cn/)
 - [cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) \| flexible project structure ![GitHub Repo stars](https://img.shields.io/github/stars/drivendataorg/cookiecutter-data-science)
 - [reference-cn](https://wangchujiang.com/reference/) \| [reference-en](https://cheatsheets.zip/) \| 速查表 ![GitHub Repo stars](https://img.shields.io/github/stars/jaywcjlove/reference)
+- [WritingAIPaper](https://github.com/hzwer/WritingAIPaper) \| Writing AI Conference Papers: A Handbook for Beginners ![GitHub Repo stars](https://img.shields.io/github/stars/hzwer/WritingAIPaper)
 
 
 ## 6. English

@@ -99,7 +99,7 @@
 
 ### 4.2. PyTorch
 
-- [官网](https://pytorch.org/) \| [docs](https://pytorch.org/docs/) \| [中文文档1](https://pytorch.ac.cn/) \| [中文文档2](https://pytorch-cn.readthedocs.io/) \| [pytorch-examples-cn](https://github.com/bat67/pytorch-examples-cn) \| [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch)
+- [官网](https://pytorch.org/) \| [中文文档1](https://pytorch.ac.cn/) \| [中文文档2](https://pytorch-cn.readthedocs.io/) \| [pytorch-examples-cn](https://github.com/bat67/pytorch-examples-cn) \| [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch)
 - [PyTorch学习笔记](https://pytorch.zhangxiann.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/zhangxiann/PyTorch_Practice)
 - [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) \| [完整版](https://cjqshu.github.io/thorough-pytorch/) \| [video](https://www.bilibili.com/video/BV1L44y1472Z) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) ![GitHub Repo stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd)

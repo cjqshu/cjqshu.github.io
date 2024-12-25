@@ -143,6 +143,7 @@
 - [Jupyter-Book](https://jupyterbook.org/) \| [中文文档](https://daobook.github.io/jupyter-book-zh/) \| [ExecutableBooksProject](https://executablebooks.org/)
 - [gitbook](https://github.com/GitbookIO/gitbook) \| [中文文档-1](https://chrisniael.gitbooks.io/gitbook-documentation/content/) \| [中文文档-2](https://demones.github.io/gitbook-guide/) ![GitHub Repo stars](https://img.shields.io/github/stars/GitbookIO/gitbook)
 - [了不起的markdown](https://cjqshu.github.io/books/了不起的markdown_莫小朋.pdf) \| [Cmd Markdown](https://www.zybuluo.com/cmd/) \| [tutorial-1](https://github.com/cjqshu/cjqshu.github.io/blob/main/codes/markdown_tutorial.md) \| [tutorial-2](https://markdown.com.cn/)
+- [网站制作](https://sites.google.com/) \| [样例](https://sites.google.com/view/datascience-cheat-sheets)
 - [cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) \| flexible project structure ![GitHub Repo stars](https://img.shields.io/github/stars/drivendataorg/cookiecutter-data-science)
 - [reference-cn](https://wangchujiang.com/reference/) \| [reference-en](https://cheatsheets.zip/) \| 速查表 ![GitHub Repo stars](https://img.shields.io/github/stars/jaywcjlove/reference)
 - [WritingAIPaper](https://github.com/hzwer/WritingAIPaper) \| Writing AI Conference Papers: A Handbook for Beginners ![GitHub Repo stars](https://img.shields.io/github/stars/hzwer/WritingAIPaper)

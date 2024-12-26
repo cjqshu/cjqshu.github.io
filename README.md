@@ -103,6 +103,8 @@
 - [PyTorch学习笔记](https://pytorch.zhangxiann.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/zhangxiann/PyTorch_Practice)
 - [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) \| [完整版](https://cjqshu.github.io/thorough-pytorch/) \| [video](https://www.bilibili.com/video/BV1L44y1472Z) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) ![GitHub Repo stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd)
+- [External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch) ![GitHub Repo stars](https://img.shields.io/github/stars/xmu-xiaoma666/External-Attention-pytorch)
+- [labmlai](https://github.com/labmlai/annotated_deep_learning_paper_implementations) \| [中文版](https://nn.labml.ai/zh/) ![GitHub Repo stars](https://img.shields.io/github/stars/labmlai/annotated_deep_learning_paper_implementations)
 
 
 ## 5. Books

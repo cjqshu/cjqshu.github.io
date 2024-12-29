@@ -48,6 +48,7 @@
 - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) \| [十大经典排序算法](https://sort.hust.cc/) \| [算法+数据结构](https://www.bilibili.com/video/BV1mp4y1D7UP?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) ![GitHub Repo stars](https://img.shields.io/github/stars/hustcc/JS-Sorting-Algorithm)
 - [Hello算法](https://www.hello-algo.com/) \| 数据结构与算法教程 ![GitHub Repo stars](https://img.shields.io/github/stars/krahets/hello-algo)
 - [labuladong的算法笔记](https://labuladong.online/algo/) ![GitHub Repo stars](https://img.shields.io/github/stars/labuladong/fucking-algorithm)
+- [oi-wiki](https://oi-wiki.org/)
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 - [重构改善既有代码的设计—中文版](https://book-refactoring2.ifmicro.com/)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) \| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ![GitHub Repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books)
@@ -103,6 +104,7 @@
 - [PyTorch学习笔记](https://pytorch.zhangxiann.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/zhangxiann/PyTorch_Practice)
 - [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) \| [完整版](https://cjqshu.github.io/thorough-pytorch/) \| [video](https://www.bilibili.com/video/BV1L44y1472Z) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) ![GitHub Repo stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd)
+- [eat_pytorch_in_20_days](https://jackiexiao.github.io/eat_pytorch_in_20_days/) \|  ![GitHub Repo stars](https://img.shields.io/github/stars/lyhue1991/eat_pytorch_in_20_days)
 - [External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch) ![GitHub Repo stars](https://img.shields.io/github/stars/xmu-xiaoma666/External-Attention-pytorch)
 - [labmlai](https://github.com/labmlai/annotated_deep_learning_paper_implementations) \| [中文版](https://nn.labml.ai/zh/) ![GitHub Repo stars](https://img.shields.io/github/stars/labmlai/annotated_deep_learning_paper_implementations)
 

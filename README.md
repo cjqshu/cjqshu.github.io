@@ -80,6 +80,7 @@
   - [seaborn](https://seaborn.pydata.org/) \| [中文文档-1](https://seaborn.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/mwaskom/seaborn)
   - [图之典](http://www.tuzhidian.com/) \| 可视化图表的词典
 - [graphviz](https://graphviz.org/) \| [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline) \| [networkx](https://networkx.org/)
+- [python数据分析_英文第3版](https://wesmckinney.com/book/) \| [中文第2版](https://seancheney.gitbook.io/python-for-data-analysis-2nd)
 
 
 ## 3. Machine Learning Libraries

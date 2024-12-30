@@ -37,6 +37,7 @@
 - [van der Schaar Lab](https://github.com/vanderschaarlab/mlforhealthlabpub) \| Machine Learning and Artificial Intelligence for Medicine
 - [Kanaries](https://github.com/Kanaries) \| Make visual exploration accessible for everyone
 - [lucidrains](https://github.com/lucidrains) \| Working with Attention. It's all we need
+- [lyhue1991](https://github.com/lyhue1991) \| Trainer of dragons and models
 - [智源社区](https://hub.baai.ac.cn/) \| 人工智能学术社区
 
 ### 1.2. Projects and Documents

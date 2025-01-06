@@ -106,7 +106,7 @@
 - [PyTorch学习笔记](https://pytorch.zhangxiann.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/zhangxiann/PyTorch_Practice)
 - [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) \| [完整版](https://cjqshu.github.io/thorough-pytorch/) \| [video](https://www.bilibili.com/video/BV1L44y1472Z) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) ![GitHub Repo stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd)
-- [eat_pytorch_in_20_days](https://jackiexiao.github.io/eat_pytorch_in_20_days/) \|  ![GitHub Repo stars](https://img.shields.io/github/stars/lyhue1991/eat_pytorch_in_20_days)
+- [eat_pytorch_in_20_days](https://jackiexiao.github.io/eat_pytorch_in_20_days/) \| [一个有毅力的吃货](https://space.bilibili.com/448076260/lists) ![GitHub Repo stars](https://img.shields.io/github/stars/lyhue1991/eat_pytorch_in_20_days)
 - [External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch) ![GitHub Repo stars](https://img.shields.io/github/stars/xmu-xiaoma666/External-Attention-pytorch)
 - [labmlai](https://github.com/labmlai/annotated_deep_learning_paper_implementations) \| [中文版](https://nn.labml.ai/zh/) ![GitHub Repo stars](https://img.shields.io/github/stars/labmlai/annotated_deep_learning_paper_implementations)
 

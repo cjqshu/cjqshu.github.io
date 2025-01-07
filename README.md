@@ -30,7 +30,9 @@
 - [GitHub文档](https://docs.github.com/zh) \| [GitHub中文社区](https://www.github-zh.com/) \| [gitstar-ranking](https://gitstar-ranking.com/) 
   -  [markdown](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) \| [badge](https://github.com/pudding0503/github-badge-collection) \| [search-github](https://docs.github.com/zh/search-github) 
   - [emoji-1](https://www.webfx.com/tools/emoji-cheat-sheet) \| [emoji-2](https://github.com/ikatyang/emoji-cheat-sheet) \| [emoji-3](https://wangchujiang.com/reference/docs/emoji.html) \| [emoji-4](https://v2fy.com/p/023emoji_%e8%a1%a8%e6%83%85%e7%ac%a6%e5%8f%b7bqb/?post_category=%e4%b8%ad%e5%9b%bd%e4%ba%ba%e7%9a%84%e8%a1%a8%e6%83%85%e5%8c%85-pp%e5%88%b6%e9%80%a0%e8%ae%a1%e5%88%92-chinesebqb)
-- [Datawhale](https://github.com/datawhalechina) \| 数据科学与 AI 领域的开源组织
+- [Datawhale](https://github.com/datawhalechina) \| [主页](https://www.datawhale.cn/) 数据科学与 AI 领域的开源组织
+  - [Datawhale人工智能培养方案](https://www.datawhale.cn/learn/summary/40)
+  - [伙伴计划—北邮图学习路线](http://www.shichuan.org/Partner_Program(Chinese).html)
 - [Haiguang Huang](https://github.com/fengdu78) \| machine learning
 - [karpathy](https://github.com/karpathy) \| deep learning
 - [Ruocheng Guo](https://github.com/rguo12) \| causal inference
@@ -75,7 +77,7 @@
 
 - [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/) \| [中文文档](https://docs.python.org/zh-cn/) \| [cheatsheet-1](https://www.pythoncheatsheet.org/) \| [cheatsheet-2](https://github.com/gto76/python-cheatsheet) \| [video-1](https://www.bilibili.com/video/BV16H4y1Q7tj?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) \| [video-2](https://open.163.com/newview/movie/free?pid=ZH8JDOTIC&mid=CH8JFI5FO) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
 - [numpy](https://numpy.org/) \| [中文文档-1](https://numpy.net/) \| [中文文档-2](https://www.numpy.org.cn/) \| [numpy速查手册](https://ygo20xz0w9.feishu.cn/docx/FklNd45A0ofMkdxHUgRcS2g2nqc) ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)
-- [pandas](https://pandas.pydata.org/) \| [中文文档-1](https://pandas.github.net.cn/) \| [中文文档-2](https://www.pypandas.cn/) \| [pandas进阶宝典](https://ygo20xz0w9.feishu.cn/docx/DFZydKHSwoLIqYx3MNncPvOxnlc) ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
+- [pandas](https://pandas.pydata.org/) \| [中文文档-1](https://pandas.github.net.cn/) \| [中文文档-2](https://www.pypandas.cn/) \| [joyful-pandas](https://inter.joyfulpandas.datawhale.club/Content/index.html) \| [pandas进阶宝典](https://ygo20xz0w9.feishu.cn/docx/DFZydKHSwoLIqYx3MNncPvOxnlc) ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
 - [matplotlib](https://matplotlib.org/) \| [中文文档-1](https://matplotlib.net/) \| [中文文档-2](https://www.matplotlib.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib)
   - [seaborn](https://seaborn.pydata.org/) \| [中文文档-1](https://seaborn.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/mwaskom/seaborn)
   - [图之典](http://www.tuzhidian.com/) \| 可视化图表的词典
@@ -124,6 +126,7 @@
 - [machine-learning-deep-learning-notes](https://github.com/loveunk/machine-learning-deep-learning-notes) ![GitHub Repo stars](https://img.shields.io/github/stars/loveunk/machine-learning-deep-learning-notes)
 - [PaddleEdu](https://paddlepedia.readthedocs.io/) ![GitHub Repo stars](https://img.shields.io/github/stars/PaddlePaddle/awesome-DeepLearning)
 - [tiny-universe](https://github.com/datawhalechina/tiny-universe) \| 大模型白盒子构建指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/tiny-universe)
+- [self-llm](https://github.com/datawhalechina/self-llm) \| 开源大模型食用指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/self-llm)
 - [iml-en](https://christophm.github.io/interpretable-ml-book/) \| [iml-cn](https://cjqshu.github.io/books/iml_chinese.pdf) \| Interpretable Machine Learning ![GitHub Repo stars](https://img.shields.io/github/stars/christophM/interpretable-ml-book)
 - [open-mmlab](https://github.com/open-mmlab) \| open-source computer vision algorithm system ![GitHub Org's stars](https://img.shields.io/github/stars/open-mmlab)
 - [hugging-face](https://github.com/huggingface) \| The AI community building the future <!-- ![GitHub Org's stars](https://img.shields.io/github/stars/huggingface) -->

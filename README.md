@@ -131,6 +131,7 @@
 - [open-mmlab](https://github.com/open-mmlab) \| open-source computer vision algorithm system ![GitHub Org's stars](https://img.shields.io/github/stars/open-mmlab)
 - [hugging-face](https://github.com/huggingface) \| The AI community building the future <!-- ![GitHub Org's stars](https://img.shields.io/github/stars/huggingface) -->
 - [numpy-ml](https://numpy-ml.readthedocs.io/en/latest/) \| machine learning models, algorithms, and tools ![GitHub Repo stars](https://img.shields.io/github/stars/ddbourgin/numpy-ml)
+- [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) ![GitHub Repo stars](https://img.shields.io/github/stars/MLEveryday/100-Days-Of-ML-Code)
 - [cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) \| Code examples in pyTorch and Tensorflow ![GitHub Repo stars](https://img.shields.io/github/stars/cs230-stanford/cs230-code-examples)
 
 

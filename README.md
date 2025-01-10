@@ -128,6 +128,7 @@
 - [PaddleEdu](https://paddlepedia.readthedocs.io/) ![GitHub Repo stars](https://img.shields.io/github/stars/PaddlePaddle/awesome-DeepLearning)
 - [tiny-universe](https://github.com/datawhalechina/tiny-universe) \| 大模型白盒子构建指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/tiny-universe)
 - [self-llm](https://github.com/datawhalechina/self-llm) \| 开源大模型食用指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/self-llm)
+- [大语言模型](https://llmbook-zh.github.io/LLMBook.pdf)
 - [iml-en](https://christophm.github.io/interpretable-ml-book/) \| [iml-cn](https://cjqshu.github.io/books/iml_chinese.pdf) \| Interpretable Machine Learning ![GitHub Repo stars](https://img.shields.io/github/stars/christophM/interpretable-ml-book)
 - [open-mmlab](https://github.com/open-mmlab) \| open-source computer vision algorithm system ![GitHub Org's stars](https://img.shields.io/github/stars/open-mmlab)
 - [hugging-face](https://github.com/huggingface) \| The AI community building the future <!-- ![GitHub Org's stars](https://img.shields.io/github/stars/huggingface) -->

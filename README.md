@@ -76,11 +76,21 @@
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 
 - [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/) \| [中文文档](https://docs.python.org/zh-cn/) \| [cheatsheet-1](https://www.pythoncheatsheet.org/) \| [cheatsheet-2](https://github.com/gto76/python-cheatsheet) \| [video-1](https://www.bilibili.com/video/BV16H4y1Q7tj?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) \| [video-2](https://open.163.com/newview/movie/free?pid=ZH8JDOTIC&mid=CH8JFI5FO) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
+  - 英文: https://python.org
+  - 中文: https://python.p2hp.com
 - [numpy](https://numpy.org/) \| [中文文档-1](https://numpy.net/) \| [中文文档-2](https://www.numpy.org.cn/) \| [numpy速查手册](https://ygo20xz0w9.feishu.cn/docx/FklNd45A0ofMkdxHUgRcS2g2nqc) ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)
+  - 英文: https://numpy.org
+  - 中文: https://numpy.net
 - [pandas](https://pandas.pydata.org/) \| [中文文档-1](https://pandas.github.net.cn/) \| [中文文档-2](https://www.pypandas.cn/) \| [joyful-pandas](https://inter.joyfulpandas.datawhale.club/Content/index.html) \| [pandas进阶宝典](https://ygo20xz0w9.feishu.cn/docx/DFZydKHSwoLIqYx3MNncPvOxnlc) ![GitHub Repo stars](https://img.shields.io/github/stars/pandas-dev/pandas)
+  - 英文: https://pandas.pydata.org
+  - 中文: https://pandas.github.net.cn
 - [matplotlib](https://matplotlib.org/) \| [中文文档-1](https://matplotlib.net/) \| [中文文档-2](https://www.matplotlib.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/matplotlib/matplotlib)
-  - [seaborn](https://seaborn.pydata.org/) \| [中文文档-1](https://seaborn.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/mwaskom/seaborn)
-  - [图之典](http://www.tuzhidian.com/) \| 可视化图表的词典
+  - 英文: https://matplotlib.org
+  - 中文: https://matplotlib.net
+- [seaborn](https://seaborn.pydata.org/) \| [中文文档-1](https://seaborn.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/mwaskom/seaborn)
+  - 英文: https://seaborn.pydata.org
+  - 中文: https://seaborn.org.cn
+- [图之典](http://www.tuzhidian.com/) \| 可视化图表的词典
 - [graphviz](https://graphviz.org/) \| [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline) \| [networkx](https://networkx.org/)
 - [python数据分析_英文第3版](https://wesmckinney.com/book/) \| [中文第2版](https://seancheney.gitbook.io/python-for-data-analysis-2nd)
 
@@ -88,6 +98,8 @@
 ## 3. Machine Learning Libraries
 
 - [scikit-learn](https://scikit-learn.org/) \| [中文文档-1](https://scikit-learn.cn/) \| [中文文档-2](https://scikitlearn.com.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn)
+  - 英文: https://scikit-learn.org
+  - 中文: https://scikit-learn.cn 
 - [pycaret](https://pycaret.gitbook.io/docs) \| [中文文档](http://www.aidoczh.com/docs/pycaret/)  ![GitHub Repo stars](https://img.shields.io/github/stars/pycaret/pycaret)
 - [lazypredict](https://github.com/shankarpandala/lazypredict) ![GitHub Repo stars](https://img.shields.io/github/stars/shankarpandala/lazypredict)
 - [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) \| Design · Develop · Deploy · Iterate ![GitHub Repo stars](https://img.shields.io/github/stars/GokuMohandas/Made-With-ML)
@@ -106,6 +118,8 @@
 ### 4.2. PyTorch
 
 - [官网](https://pytorch.org/) \| [中文文档1](https://pytorch.ac.cn/) \| [中文文档2](https://pytorch-cn.readthedocs.io/) \| [pytorch-examples-cn](https://github.com/bat67/pytorch-examples-cn) \| [PyTorch常用函数手册](https://cjqshu.github.io/books/Pytorch常用函数手册.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/pytorch)
+  - 英文: https://pytorch.org
+  - 中文: https://pytorch.ac.cn
 - [PyTorch学习笔记](https://pytorch.zhangxiann.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/zhangxiann/PyTorch_Practice)
 - [深入浅出PyTorch](https://datawhalechina.github.io/thorough-pytorch/) \| [完整版](https://cjqshu.github.io/thorough-pytorch/) \| [video](https://www.bilibili.com/video/BV1L44y1472Z) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/thorough-pytorch)
 - [PyTorch实用教程](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) ![GitHub Repo stars](https://img.shields.io/github/stars/TingsongYu/PyTorch-Tutorial-2nd)
@@ -129,7 +143,8 @@
 - [tiny-universe](https://github.com/datawhalechina/tiny-universe) \| 大模型白盒子构建指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/tiny-universe)
 - [self-llm](https://github.com/datawhalechina/self-llm) \| 开源大模型食用指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/self-llm)
 - [大语言模型](https://llmbook-zh.github.io/LLMBook.pdf)
-- [iml-en](https://christophm.github.io/interpretable-ml-book/) \| [iml-cn](https://cjqshu.github.io/books/iml_chinese.pdf) \| Interpretable Machine Learning ![GitHub Repo stars](https://img.shields.io/github/stars/christophM/interpretable-ml-book)
+- [iml-en](https://christophm.github.io/interpretable-ml-book/) \| [iml-cn](https://cjqshu.github.io/books/iml_chinese.pdf) \| Interpretable Machine Learning 可解释机器学习 ![GitHub Repo stars](https://img.shields.io/github/stars/christophM/interpretable-ml-book)
+- [Explanatory Model Analysis](https://ema.drwhy.ai/) \| [DALEX](https://github.com/ModelOriented/DALEX) \| 解释模型分析 ![GitHub Repo stars](https://img.shields.io/github/stars/pbiecek/ema)
 - [open-mmlab](https://github.com/open-mmlab) \| open-source computer vision algorithm system ![GitHub Org's stars](https://img.shields.io/github/stars/open-mmlab)
 - [hugging-face](https://github.com/huggingface) \| The AI community building the future <!-- ![GitHub Org's stars](https://img.shields.io/github/stars/huggingface) -->
 - [numpy-ml](https://numpy-ml.readthedocs.io/en/latest/) \| machine learning models, algorithms, and tools ![GitHub Repo stars](https://img.shields.io/github/stars/ddbourgin/numpy-ml)

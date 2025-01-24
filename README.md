@@ -4,18 +4,18 @@
 ## Table of Contents <!-- omit in toc -->
 
 - [1. Open Source](#1-open-source)
-	- [1.1. Organizations](#11-organizations)
-	- [1.2. Projects and Documents](#12-projects-and-documents)
+  - [1.1. Organizations](#11-organizations)
+  - [1.2. Projects and Documents](#12-projects-and-documents)
 - [2. Data Analysis](#2-data-analysis)
 - [3. Machine Learning Libraries](#3-machine-learning-libraries)
 - [4. Deep Learning Frameworks](#4-deep-learning-frameworks)
-	- [4.1. TensorFlow](#41-tensorflow)
-	- [4.2. PyTorch](#42-pytorch)
+  - [4.1. TensorFlow](#41-tensorflow)
+  - [4.2. PyTorch](#42-pytorch)
 - [5. Books](#5-books)
-	- [5.1. ML and DL](#51-ml-and-dl)
-	- [5.2. Causal Inference](#52-causal-inference)
-	- [5.3. Thinking Method](#53-thinking-method)
-	- [5.4. Tools](#54-tools)
+  - [5.1. ML and DL](#51-ml-and-dl)
+  - [5.2. Causal Inference](#52-causal-inference)
+  - [5.3. Thinking Method](#53-thinking-method)
+  - [5.4. Tools](#54-tools)
 - [6. English](#6-english)
 - [7. My Links](#7-my-links)
 
@@ -55,7 +55,7 @@
 - [Google开源项目风格指南—中文版](https://zh-google-styleguide.readthedocs.io/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/zh-google-styleguide/zh-google-styleguide)
 - [重构改善既有代码的设计—中文版](https://book-refactoring2.ifmicro.com/)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) \| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ![GitHub Repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books)
-- [runoob](https://www.runoob.com/) \| running noob
+- [runoob](https://www.runoob.com/) \| running noob 菜鸟教程
 - [w3school](https://www.w3school.com.cn/) \| web开发者资源  <!--w3: World Wide Web 万维网 -->
 - [廖雪峰的官方网站](https://liaoxuefeng.com/)
 - [IT教程网](https://zglg.work/) \| [AI之家](https://ai-jupyter.com/)

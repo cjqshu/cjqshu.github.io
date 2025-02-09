@@ -91,7 +91,12 @@
   - 英文: https://seaborn.pydata.org
   - 中文: https://seaborn.org.cn
 - [图之典](http://www.tuzhidian.com/) \| 可视化图表的词典
-- [graphviz](https://graphviz.org/) \| [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline) \| [networkx](https://networkx.org/)
+- [graphviz](https://graphviz.org/) \| [graphviz-visual-editor](https://magjac.com/graphviz-visual-editor/) \| [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline)
+  - 英文: https://www.graphviz.org
+  - 中文: https://graphviz.cpp.org.cn
+- [networkx](https://networkx.org/) \| 用于创建、操作和研究复杂网络的结构、动力学和功能的Python包
+  - 英文: https://networkx.org
+  - 中文: https://www.osgeo.cn/networkx/index.html
 - [python数据分析_英文第3版](https://wesmckinney.com/book/) \| [中文第2版](https://seancheney.gitbook.io/python-for-data-analysis-2nd)
 
 

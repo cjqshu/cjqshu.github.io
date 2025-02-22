@@ -97,6 +97,7 @@
 - [networkx](https://networkx.org/) \| 用于创建、操作和研究复杂网络的结构、动力学和功能的Python包
   - 英文: https://networkx.org
   - 中文: https://www.osgeo.cn/networkx/index.html
+- [figma](https://www.figma.com/) \| [figma中文社区](https://www.figma.cool/) \| 在线UI设计工具
 - [python数据分析_英文第3版](https://wesmckinney.com/book/) \| [中文第2版](https://seancheney.gitbook.io/python-for-data-analysis-2nd)
 
 
@@ -170,6 +171,7 @@
 
 ### 5.4. Tools
 
+- [Microsoft支持](https://support.microsoft.com/zh-cn) \| word, ppt, visio等软件教程
 - [learnlatex](https://github.com/learnlatex/learnlatex.github.io) \| Learn LaTeX online ![GitHub Repo stars](https://img.shields.io/github/stars/learnlatex/learnlatex.github.io)
 - [Read-the-Docs](https://github.com/readthedocs/readthedocs.org/) \| [readthedocs-demo](https://readthedocs-demo-zh.readthedocs.io/) \| [文档编排](https://docgenerate.readthedocs.io/)
 - [Jupyter-Book](https://jupyterbook.org/) \| [中文文档](https://daobook.github.io/jupyter-book-zh/) \| [ExecutableBooksProject](https://executablebooks.org/)

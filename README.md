@@ -150,6 +150,7 @@
 - [tiny-universe](https://github.com/datawhalechina/tiny-universe) \| 大模型白盒子构建指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/tiny-universe)
 - [self-llm](https://github.com/datawhalechina/self-llm) \| 开源大模型食用指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/self-llm)
 - [大语言模型](https://llmbook-zh.github.io/LLMBook.pdf)
+- [llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/llms-from-scratch-cn)
 - [iml-en](https://christophm.github.io/interpretable-ml-book/) \| [iml-cn](https://cjqshu.github.io/books/iml_chinese.pdf) \| Interpretable Machine Learning 可解释机器学习 ![GitHub Repo stars](https://img.shields.io/github/stars/christophM/interpretable-ml-book)
 - [Explanatory Model Analysis](https://ema.drwhy.ai/) \| [DALEX](https://github.com/ModelOriented/DALEX) \| 解释模型分析 ![GitHub Repo stars](https://img.shields.io/github/stars/pbiecek/ema)
 - [open-mmlab](https://github.com/open-mmlab) \| open-source computer vision algorithm system ![GitHub Org's stars](https://img.shields.io/github/stars/open-mmlab)

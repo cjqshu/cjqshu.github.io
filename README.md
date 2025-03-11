@@ -41,7 +41,7 @@
 - [lucidrains](https://github.com/lucidrains) \| Working with Attention. It's all we need
 - [lyhue1991](https://github.com/lyhue1991) \| Trainer of dragons and models
 - [智源社区](https://hub.baai.ac.cn/) \| 人工智能学术社区
-- [dair-ai](https://github.com/dair-ai) \|Democratizing Artificial Intelligence Research, Education, and Technologies
+- [dair-ai](https://github.com/dair-ai) \| Democratizing Artificial Intelligence Research, Education, and Technologies
 
 ### 1.2. Projects and Documents
 
@@ -152,6 +152,7 @@
 - [self-llm](https://github.com/datawhalechina/self-llm) \| 开源大模型食用指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/self-llm)
 - [大语言模型](https://llmbook-zh.github.io/LLMBook.pdf)
 - [llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/llms-from-scratch-cn)
+- [llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) 
 - [iml-en](https://christophm.github.io/interpretable-ml-book/) \| [iml-cn](https://cjqshu.github.io/books/iml_chinese.pdf) \| Interpretable Machine Learning 可解释机器学习 ![GitHub Repo stars](https://img.shields.io/github/stars/christophM/interpretable-ml-book)
 - [Explanatory Model Analysis](https://ema.drwhy.ai/) \| [DALEX](https://github.com/ModelOriented/DALEX) \| 解释模型分析 ![GitHub Repo stars](https://img.shields.io/github/stars/pbiecek/ema)
 - [open-mmlab](https://github.com/open-mmlab) \| open-source computer vision algorithm system ![GitHub Org's stars](https://img.shields.io/github/stars/open-mmlab)

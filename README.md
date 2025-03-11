@@ -41,6 +41,7 @@
 - [lucidrains](https://github.com/lucidrains) \| Working with Attention. It's all we need
 - [lyhue1991](https://github.com/lyhue1991) \| Trainer of dragons and models
 - [智源社区](https://hub.baai.ac.cn/) \| 人工智能学术社区
+- [dair-ai](https://github.com/dair-ai) \|Democratizing Artificial Intelligence Research, Education, and Technologies
 
 ### 1.2. Projects and Documents
 

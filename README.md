@@ -80,6 +80,8 @@
 - [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/) \| [中文文档](https://docs.python.org/zh-cn/) \| [cheatsheet-1](https://www.pythoncheatsheet.org/) \| [cheatsheet-2](https://github.com/gto76/python-cheatsheet) \| [video-1](https://www.bilibili.com/video/BV16H4y1Q7tj?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) \| [video-2](https://open.163.com/newview/movie/free?pid=ZH8JDOTIC&mid=CH8JFI5FO) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
   - 英文: https://python.org
   - 中文: https://python.p2hp.com
+  - 代码编辑器: [vscode](https://vscode.github.net.cn/) (免费) \| [pycharm](https://pycharm.net.cn/) (建议专业版)
+  - 包管理和环境管理系统: [anaconda](https://anaconda.net.cn/download/success) (建议安装miniconda)
 - [numpy](https://numpy.org/) \| [中文文档-1](https://numpy.net/) \| [中文文档-2](https://www.numpy.org.cn/) \| [numpy速查手册](https://ygo20xz0w9.feishu.cn/docx/FklNd45A0ofMkdxHUgRcS2g2nqc) ![GitHub Repo stars](https://img.shields.io/github/stars/numpy/numpy)
   - 英文: https://numpy.org
   - 中文: https://numpy.net

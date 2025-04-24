@@ -77,7 +77,7 @@
 <!-- tutorials -->
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 
-- [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/) \| [中文文档](https://docs.python.org/zh-cn/) \| [cheatsheet-1](https://www.pythoncheatsheet.org/) \| [cheatsheet-2](https://github.com/gto76/python-cheatsheet) \| [video-1](https://www.bilibili.com/video/BV16H4y1Q7tj?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) \| [video-2](https://open.163.com/newview/movie/free?pid=ZH8JDOTIC&mid=CH8JFI5FO) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
+- [python](https://www.python.org/) \| [中文官网](https://python.p2hp.com/) \| [中文文档](https://docs.python.org/zh-cn/) \| [tutorial](https://www.runoob.com/python/python-tutorial.html) \| [cheatsheet-1](https://www.pythoncheatsheet.org/) \| [cheatsheet-2](https://github.com/gto76/python-cheatsheet) \| [video-1](https://www.bilibili.com/video/BV16H4y1Q7tj?spm_id_from=333.788.videopod.episodes&vd_source=04df812632021994933f2ad9aa149635) \| [video-2](https://open.163.com/newview/movie/free?pid=ZH8JDOTIC&mid=CH8JFI5FO) ![GitHub Repo stars](https://img.shields.io/github/stars/python/cpython)
   - 英文: https://python.org
   - 中文: https://python.p2hp.com
   - 代码编辑器: [vscode](https://vscode.github.net.cn/) (免费) \| [pycharm](https://pycharm.net.cn/) (建议专业版)

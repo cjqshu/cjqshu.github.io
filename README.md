@@ -136,7 +136,7 @@
 - [eat_pytorch_in_20_days](https://jackiexiao.github.io/eat_pytorch_in_20_days/) \| [一个有毅力的吃货](https://space.bilibili.com/448076260/lists) ![GitHub Repo stars](https://img.shields.io/github/stars/lyhue1991/eat_pytorch_in_20_days)
 - [External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch) ![GitHub Repo stars](https://img.shields.io/github/stars/xmu-xiaoma666/External-Attention-pytorch)
 - [labmlai](https://github.com/labmlai/annotated_deep_learning_paper_implementations) \| [中文版](https://nn.labml.ai/zh/) ![GitHub Repo stars](https://img.shields.io/github/stars/labmlai/annotated_deep_learning_paper_implementations)
-
+- [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) \| [tutorial](https://jacobgil.github.io/pytorch-gradcam-book/introduction.html) \| Advanced Explainable AI for computer vision
 
 ## 5. Books
 
@@ -153,6 +153,7 @@
 - [tiny-universe](https://github.com/datawhalechina/tiny-universe) \| 大模型白盒子构建指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/tiny-universe)
 - [self-llm](https://github.com/datawhalechina/self-llm) \| 开源大模型食用指南 ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/self-llm)
 - [大语言模型](https://llmbook-zh.github.io/LLMBook.pdf)
+- [Transformers快速入门](https://transformers.run/)
 - [llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/llms-from-scratch-cn)
 - [llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) 
 - [iml-en](https://christophm.github.io/interpretable-ml-book/) \| [iml-cn](https://cjqshu.github.io/books/iml_chinese.pdf) \| Interpretable Machine Learning 可解释机器学习 ![GitHub Repo stars](https://img.shields.io/github/stars/christophM/interpretable-ml-book)

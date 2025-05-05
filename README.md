@@ -95,6 +95,7 @@
   - 英文: https://seaborn.pydata.org
   - 中文: https://seaborn.org.cn
 - [图之典](http://www.tuzhidian.com/) \| 可视化图表的词典
+- [yan-holtz](https://www.yan-holtz.com/) \| [data-to-viz](https://www.data-to-viz.com/) \| [dataviz-inspiration](https://www.dataviz-inspiration.com/) \| [python-graph-gallery](https://python-graph-gallery.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/holtzy/data_to_viz)
 - [graphviz](https://graphviz.org/) \| [graphviz-visual-editor](https://magjac.com/graphviz-visual-editor/) \| [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline)
   - 英文: https://www.graphviz.org
   - 中文: https://graphviz.cpp.org.cn

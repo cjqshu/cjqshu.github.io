@@ -94,7 +94,7 @@
 - [seaborn](https://seaborn.pydata.org/) \| [中文文档-1](https://seaborn.org.cn/) ![GitHub Repo stars](https://img.shields.io/github/stars/mwaskom/seaborn)
   - 英文: https://seaborn.pydata.org
   - 中文: https://seaborn.org.cn
-- [plotly](https://plotly.com/python/) \| The interactive graphing library for Python
+- [plotly](https://plotly.com/python/) \| The interactive graphing library for Python ![GitHub Repo stars](https://img.shields.io/github/stars/plotly/plotly.py)
 - [图之典](http://www.tuzhidian.com/) \| 可视化图表的词典
 - [yan-holtz](https://www.yan-holtz.com/) \| [data-to-viz](https://www.data-to-viz.com/) \| [dataviz-inspiration](https://www.dataviz-inspiration.com/) \| [python-graph-gallery](https://python-graph-gallery.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/holtzy/data_to_viz)
 - [graphviz](https://graphviz.org/) \| [graphviz-visual-editor](https://magjac.com/graphviz-visual-editor/) \| [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline)

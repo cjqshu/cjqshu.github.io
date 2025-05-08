@@ -190,6 +190,10 @@
 - [cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) \| flexible project structure ![GitHub Repo stars](https://img.shields.io/github/stars/drivendataorg/cookiecutter-data-science)
 - [reference-cn](https://wangchujiang.com/reference/) \| [reference-en](https://cheatsheets.zip/) \| 速查表 ![GitHub Repo stars](https://img.shields.io/github/stars/jaywcjlove/reference)
 - [WritingAIPaper](https://github.com/hzwer/WritingAIPaper) \| Writing AI Conference Papers: A Handbook for Beginners ![GitHub Repo stars](https://img.shields.io/github/stars/hzwer/WritingAIPaper)
+- [academicpages](https://github.com/academicpages/academicpages.github.io) \| a ready-to-fork GitHub Pages template for academic personal websites ![GitHub Repo stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)
+- [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) \| A Modern and Responsive Academic Personal Homepage ![GitHub Repo stars](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)
+- [al-folio](https://github.com/alshedivat/al-folio/tree/master) \| A simple, clean, and responsive Jekyll theme for academics
+
 
 
 ## 6. English

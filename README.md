@@ -144,6 +144,7 @@
 ## 5. Books
 
 ### 5.1. ML and DL
+- [ai-edu](https://github.com/microsoft/ai-edu) \| AI education materials \| 中文书籍《智能之门》
 - [AAAMLP-CN](https://ytzfhqs.github.io/AAAMLP-CN/) \| Approaching (Almost) Any Machine Learning Problem 中译版 ![GitHub Repo stars](https://img.shields.io/github/stars/ytzfhqs/AAAMLP-CN)
 - [ML-notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) \| [DL-notes](https://github.com/fengdu78/deeplearning_ai_books) (吴恩达 Andrew Ng) ![GitHub Repo stars](https://img.shields.io/github/stars/fengdu78/Coursera-ML-AndrewNg-Notes)
 - [d2l](https://zh-v2.d2l.ai/) \| 动手学深度学习 (李沐) ![GitHub Repo stars](https://img.shields.io/github/stars/d2l-ai/d2l-zh)
